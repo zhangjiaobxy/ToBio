@@ -1,0 +1,110 @@
+Glutathione	NAK1	1
+Manganese	SOD	1
+Endoperoxidase	PGG3	1
+Leukotriene A4	Leukotriene C4	1
+Alox5	Lipoxin B4	1
+LA (n-6)	Fads2	1
+NAI2	glutathione disulfide	1
+Gsr	NADPH	1
+Gsr	Glutathione	1
+Heme	Ptgis	1
+NAK3	F2-Isoprostane	1
+Zinc	SelR	1
+Sepp1	RNS	1
+Leukotriene D4	Leukotriene E4	1
+15-HETE	Alox5	1
+COX1	PGE3	1
+Selenium	SelR	1
+ROS	NAK3	1
+COX2	PGG2	1
+Leukotriene E4	LeukotrieneE4	1
+Lipoic acid	ROS	1
+FMN	FAD	1
+Homocysteine	ROS	1
+PGG3	Ptges	1
+Thioredoxin	Ascorbic acid	1
+a-Tocopherol	COX1	1
+Leukotriene A4	Leukotriene B4	1
+Heme	Cat	1
+SelR	NAK5	1
+EPA (n-3)	COX2	1
+NAK6	Cysteine	1
+Cat	H2O	1
+F2-Isoprostane	iPF2-alpha	1
+Endoperoxidase	PGH2	1
+FAD	FMN	1
+FAD	Mthfr	1
+NAI1	Thioredoxin	1
+PGH2	Ptgds	1
+Selenium	Alox5	1
+Uric acid	Xanthine	1
+Mthfr	Folic acid	1
+Thromboxane A2	Tromboxane A2	1
+Heme	COX1	1
+PGG2	Endoperoxidase	1
+Thioredoxin	Lipoic acid	1
+Kmo	Tryptophan	1
+FAD	Xdh	1
+Vitamin B12	Mtr	1
+Ascorbic acid	ROS	1
+EPA (n-3)	COX1	1
+PGFS	PGF2a	1
+Iron	Heme	1
+NAK4	Niacin	1
+Heme	Ptgds	1
+Heme	Tbxas1	1
+SelW	Glutathione	1
+Uric acid	ROS	1
+AA (n-6)	d4 desaturase	1
+Selenium	NAI1	1
+Selenium	Selk	1
+Heme	COX2	1
+Pyridoxal 5'-phosphate	NAK6	1
+Lipoic acid	SOD	1
+AA (n-6)	COX1	1
+NAK5	Methionine sulfoxide	1
+Homocysteine	Mtr	1
+Kmo	Mthfr	1
+Leukotriene E4	Leukotriene F4	1
+d4 desaturase	C22:5 (n-6)	1
+PGH2	Ptgis	1
+Zinc	SOD	1
+EPA (n-3)	d4 desaturase	1
+ALA (n-3)	Fads2	1
+NAI2	H2O	1
+Xdh	Hypoxanthine	1
+Niacin	NADP	1
+Xanthine	Xdh	1
+Selenium	SelW	1
+NAK1	Leukotriene A4	1
+Ptges	PGH3	1
+PGH2	Ptges	1
+Thromboxane A2	Thromboxane B2	1
+Riboflavin	FMN	1
+ROS	NAK5	1
+Copper	SOD	1
+PGE3	Endoperoxidase	1
+COX1	PGG2	1
+PGH2	PGFS	1
+a-Tocopherol	a-tocopherol	1
+Leukotriene C4	Leukotriene D4	1
+a-Tocopherol	SOD	1
+Ptges	PGE2	1
+a-Tocopherol	COX2	1
+AA (n-6)	COX2	1
+Uric acid	Uric Acid	1
+d4 desaturase	DHA (n-3)	1
+Niacin	NADPH	1
+Selenium	Sepp1	1
+Ascorbic acid	SOD	1
+Pyridoxal 5'-phosphate	NAK4	1
+FMN	Riboflavin	1
+Methionine	NAK5	1
+Hypoxanthine	Uric acid	1
+NADP	Gsr	1
+Tbxas1	Thromboxane B2	1
+PGH2	Tbxas1	1
+H2O2	NAI2	1
+Glutathione	Gpx3	1
+Selenium	NAI2	1
+Cat	O2	1

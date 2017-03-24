@@ -1,0 +1,11 @@
+Adora1	Gi/Go Pathway	1
+P2ry2	Gq/G11 Pathway	1
+P2ry1	Gq/G11 Pathway	1
+P2ry4	Gq/G11 Pathway	1
+Adora3	Gs Pathway	1
+P2ry2	Gi/Go Pathway	1
+P2ry6	Gq/G11 Pathway	1
+Adenosine	NAI1	1
+Adora2a	Gs Pathway	1
+Adenine	NAI2	1
+Adora3	Gi/Go Pathway	1

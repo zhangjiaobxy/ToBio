@@ -1,0 +1,50 @@
+NAI14	NAJ5	1
+NAI9	NAJ22	1
+NAI7	NAI8	1
+NAI12	NAJ16	1
+NAI25	NAJ24	1
+NAI15	NAJ5	1
+Ubiquitin	NAJ23	1
+ATP	NAJ19	1
+NAJ16	Cdt1	1
+ATP	NAJ10	1
+NAI10	NAJ21	1
+Mcm 2-7 complex	DNA polymerase alpha:	1
+Pre-replicative complex	Mcm 4,6,7 trimer forms and	1
+RNA primer-DNA primer	NAI19	1
+Phosphorylated Cdc6	Ubiquitinated Cdc6	1
+Phosphorylated Orc1	Ubiquitinated Orc1	1
+RNA Primer	RNA primer-DNA primer	1
+NAJ9	ADP	1
+NAI23	NAJ20	1
+NAI20	NAI21	1
+primase: origin complex	RNA Primer	1
+Orc3l	NAI1	1
+ATP	NAJ7	1
+NAI5	NAI6	1
+Ubiquitin	NAJ27	1
+Pre-replicative complex	Phosphorylation of	1
+NAI11	NAJ21	1
+Mcm10	NAJ25	1
+Orc4l	NAJ13	1
+Pcna	NAJ19	1
+NAI18	NAJ28	1
+Orc5l	NAJ1	1
+Cdc6	NAJ26	1
+NAJ18	NAI24	1
+NAI17	NAJ14	1
+NAJ20	NAI22	1
+Orc1l	NAJ2	1
+NAJ12	Phosphorylated Cdc6	1
+NAI6	NAI7	1
+NAI13	NAJ4	1
+NAI19	NAI20	1
+NAI1	NAI2	1
+Orc6l	NAJ15	1
+NAJ11	ADP	1
+Orc2l	NAJ17	1
+Ubiquitinated Cdc6	Degraded by	1
+Cdc45l	NAJ3	1
+NAI16	NAJ6	1
+NAJ8	Phosphorylated Orc1	1
+Ubiquitinated Orc1	Degraded by proteasome in cytosol	1

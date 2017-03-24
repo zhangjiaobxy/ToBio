@@ -1,0 +1,23 @@
+NAJ1	Plasma Cell	1
+Macrophage	T-helper	1
+Endothelial Cells	Inflammatory Response	1
+B Cell	Plasma Cell	1
+Hematopoietic Stem Cell	Hematopoiesis	1
+T-helper	Il2	1
+T-helper	Macrophage	1
+NAJ1	B Cell	1
+Macrophage	Hypothalamus	1
+T-helper	Eos	1
+Macrophage	Fibroblasts	1
+T-helper	NK cell	1
+Macrophage	Neutrophil	1
+T-helper	B Cell	1
+Macrophage	Hematopoietic Stem Cell	1
+T-helper	Mast Cell	1
+Fibroblasts	Inflammatory Response	1
+T-helper	Hematopoietic Stem Cell	1
+T-helper	Th	1
+T-helper	Tc	1
+Plasma Cell	antibodies	1
+T-helper	Lymphocyte Activated	1
+Macrophage	Endothelial Cells	1

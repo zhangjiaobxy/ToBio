@@ -1,0 +1,47 @@
+NAJ5	Hc	1
+NAI3	NAI2	1
+NAI2	C3-convertase	1
+Formation of apoptotic bodies	Complement activation	1
+Pcna	DNA Replication	1
+Proteasome	Casp3	1
+ROS	GSH	1
+Casp3	Apoptosis	1
+Nf-kB pathway	Cell survival	1
+NAI8	NAI10	1
+Gadd45a	NAI7	1
+Apoptosis	Formation of apoptotic bodies	1
+Proteasome	Nf-kB pathway	1
+Oxidative stress	ROS	1
+Stress	ROS	1
+Formation of apoptotic bodies	C5a	1
+Bad	NAJ1	1
+Map3k9	Map2k6	1
+ROS	NAI8	1
+Traf6	Ttrap	1
+Tnk2	Cdc42	1
+Hc	Cell lysis and clearance	1
+GSH	ROS	1
+Bak1	Bcl2	1
+Map2k6	NAI1	1
+NAI6	Induction of antioxidant genes	1
+Map3k1	Map2k6	1
+Stress	Cdc42	1
+Cdc42	Map3k9	1
+ROS	NAI6	1
+NAI9	Muscle contraction,	1
+NAI10	Casp3	1
+Traf6	Map3k1	1
+Bcl2	NAJ2	1
+NAI6	NAI7	1
+Ttrap	Nfkb1	1
+C3-convertase	Hc	1
+NAI1	Apoptosis	1
+Pcna	Gadd45a	1
+DNA Replication	Liver regeneration	1
+NAI2	NAI9	1
+NAJ4	C3-convertase	1
+Tnf	Tnfrsf1b	1
+Bag4	Bcl2	1
+Stress	NAJ3	1
+NAI5	C3-convertase	1
+Stress	NAI8	1

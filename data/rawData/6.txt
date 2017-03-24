@@ -1,0 +1,47 @@
+Acta1	Regulation of actin cytoskeleton	1
+NAI6	Creb1	1
+Camk2b	NAI2	1
+D-Glutamate	NAI1	1
+NAI2	Strong depolarization	1
+Krit1	Camk2b	1
+Prkce	NAI7	1
+Cyclic AMP	Prkaca	1
+Gi	Adcy1	1
+Nisch	Ppa1	1
+NAI1	Cyclic AMP	1
+Camk2b	NAI6	1
+Gs	Adcy1	1
+Camk4	Creb1	1
+GnRH Signal pathway	Creb1	1
+Drd4	Prkce	1
+Adcy1	Prkaca	1
+NAI7	Regulation of gap junction	1
+Strong depolarization	NAI3	1
+D-Glutamate	NAI2	1
+Ppa1	Camk2b	1
+NAI5	NAI6	1
+Prkaca	NAI7	1
+Drd2	Gi	1
+NAI4	Prkce	1
+D-Glutamate	NAI4	1
+Local Translation	Camk2b	1
+Local Translation	NAI3	1
+Prkaca	Terf2ip	1
+Creb1	Gonadotropins gene	1
+Prkce	NAI3	1
+Prkaca	Nisch	1
+Creb1	Local Translation	1
+Camk2b	Acta1	1
+NAI6	Regulation of actin cytoskeleton	1
+Camk2b	NAI4	1
+Ca++	Krit1	1
+NAI6	NAI7	1
+Terf2ip	Zhx2	1
+Drd1a	Gs	1
+NAI3	Ca++	1
+D-Glutamate	NAI3	1
+Krit1	Camk4	1
+Camk2b	Gonadotropins gene	1
+Zhx2	NAI5	1
+Prkce	Ppa1	1
+GnRH Signal pathway	Camk2b	1

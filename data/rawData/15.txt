@@ -1,0 +1,17 @@
+PKA	Creb1	1
+Camk4	Creb1	1
+Pprc1	Nrf1	1
+Tfam	Polrmt	1
+Creb1	Ppargc1a	1
+Ppargc1a	Nrf1	1
+Ppargc1a	Gabpa	1
+Tfb1m	Tfam	1
+Myef2	Ppargc1a	1
+cAMP	PKA	1
+Ppargc1a	Esrra	1
+Tfam	Tfb2m	1
+Ppargc1b	Nrf1	1
+Ppargc1a	Gabpb2	1
+Ca2+	Camk4	1
+Ca2+	Ppp3ca	1
+Ppp3ca	Ppargc1a	1

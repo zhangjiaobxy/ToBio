@@ -1,0 +1,6 @@
+Histone	NAI1	1
+Acetylated histone	NAI2	1
+Histone	HAT1	1
+HAT1	Acetylated histone	1
+NAI1	Methylated histone	1
+NAI2	Histone	1

@@ -1,0 +1,137 @@
+hsa-mir-16	Ccnd3	1
+NAI7	Senescence	1
+ROS	Estradiol	1
+E2f1	Mcm7	1
+Mir17	E2f1	1
+G1/S transition	Cell-cycle progression	1
+Chek1	Cdc25a	1
+Cdc25a	NAI10	1
+Trp53	NAI3	1
+DNA adduct	Double-strand breaks	1
+Atm	Fancd2	1
+Specialized: Somatic hypermutaion V(D)J recombination Class switching	Double-strand breaks	1
+Chek2	Cdc25c	1
+hsa-mir-16	Cdc25a	1
+hsa-mir-34b	Creb1	1
+NAI2	Chromatin remodelling	1
+Casp8	Casp3	1
+Estradiol	Cdkn1b	1
+Ccnd1	hsa-miR-17/92a-1	1
+E2f1	hsa-miR-17/92a-1	1
+Chek2	E2f1	1
+hsa-mir-421	Atm	1
+c-Myc	hsa-miR-449c/449a	1
+Trp53	NAI9	1
+Mir106b	Cdkn1a	1
+hsa-mir-29b	Cdk6	1
+hsa-mir-424	Ccnd1	1
+NAI7	E2f1	1
+Chek1	Cdc25c	1
+Trp53	Sfn	1
+Double-strand breaks	Bulky DNA lesion	1
+Alkylating agents	Atr	1
+Mir330	E2f1	1
+Estradiol	NAI10	1
+Mir122a	Ccng1	1
+Caffeine	Atm	1
+Endogenous: Collapsed replication forks Single stranded DNA replication breaks Free radicals (ROS)	Double-strand breaks	1
+Cdk1	G2/M checkpoint	1
+c-Myc	NAJ2	1
+Atr	H2afx	1
+Exogenous: Cigarette Smoke Caffeine Radiation (UV) Clastogenes Hypoxia Genotoxic drugs	DNA adduct	1
+Atm	Brca1	1
+Trp53	Cdk1	1
+Bulky DNA lesion	Blocked replication	1
+Mir20a	E2f1	1
+7-hydroxystaurosporine	Chek1	1
+Estradiol	c-Myc	1
+Double-strand breaks	Chromatin alteration	1
+NAI14	Cdkn1b	1
+ROS	Trp53	1
+Caffeine	Atr	1
+NAI10	NAI5	1
+Gm10121	Casp9	1
+Brca1	DNA repair	1
+Atm	NAI8	1
+PRKDC	Chek2	1
+E2f1	hsa-mir-15b/16-2	1
+Cdc25c	G2/M Checkpoint	1
+hsa-mir-145	c-Myc	1
+E2f1	G1/S transition	1
+NAI9	Casp8	1
+Trp53	hsa-mir-34b/34c	1
+Mir15a	Cdc25a	1
+Chek1	Abl1	1
+Atr	Chek1	1
+Chek2	Pml	1
+G2/M transition	Cell-cycle progression	1
+Trp53	NAI1	1
+Fancd2	Cell Cycle	1
+Atm	Smc1a	1
+Mir29a	Cdk6	1
+E2f1	hsa-miR-449c/449a	1
+Alkylating agents	Atm	1
+Mir29c	Cdk6	1
+c-Myc	hsa-let-7a-1/7d	1
+NAI5	NAJ3	1
+Mir449a	Cdk6	1
+Double-strand breaks	Atr	1
+hsa-mir-21	Cdc25a	1
+Abl1	Rad51	1
+Mir24-2	H2afx	1
+Exogenous: Cigarette Smoke Caffeine Radiation (UV) Clastogenes Hypoxia Genotoxic drugs	Double-strand breaks	1
+Blocked transcription	Atr	1
+Atm	H2afx	1
+Atr	Brca1	1
+Cdkn1b	Sfn	1
+Blocked replication	Atr	1
+Mir449b	Cdc25a	1
+Mir203	Abl1	1
+Creb1	Cell survival	1
+Trp53	NAI6	1
+Smc1a	Cell Cycle	1
+Apaf1	Casp9	1
+c-Myc	hsa-mir-15a/16-1	1
+Casp9	Casp3	1
+Chek1	NAI2	1
+Atm	Trp53	1
+Chromatin alteration	Atm	1
+Atrip	NAJ1	1
+NAI11	Chek1	1
+Mir17	Cdkn1a	1
+Replication stress	Atr	1
+Mir210	Rad52	1
+Casp8	Bid	1
+NAI6	Cdk1	1
+Bulky DNA lesion	Blocked transcription	1
+Cdkn1a	Cdk1	1
+hsa-mir-373	Rad52	1
+Chek2	Cdc25a	1
+NAI4	Chek1	1
+c-Myc	hsa-miR-195/497	1
+Trp53	hsa-mir-143/145	1
+Trp53	miR-143/145 polycistron	1
+Rad51	DNA repair	1
+Rad52	DNA repair	1
+Casp3	Apoptosis	1
+c-Myc	hsa-miR-29b-1/29a	1
+hsa-mir-16	Ccnd1	1
+hsa-mir-195	Ccnd1	1
+Mir223	E2f1	1
+NAI12	Cdk1	1
+Trp53	Cdkn1a	1
+Trp53	NAI12	1
+Abl1	Rad52	1
+hsa-mir-16	Ccne1	1
+Cdkn1a	NAI5	1
+c-Myc	hsa-miR-17/92a-1	1
+NAI7	Rb1	1
+Atm	Creb1	1
+Rpa2	NAJ1	1
+NAI1	Gm10121	1
+Bid	Gm10121	1
+Atm	Chek2	1
+Mir449a	Cdc25a	1
+H2afx	DNA repair	1
+Sfn	G2/M transition	1
+NAI3	DNA repair and  damage prevention	1

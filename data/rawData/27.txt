@@ -1,0 +1,22 @@
+NAI3	NAI2	1
+Hspa1a	Mapk10	1
+NAI3	NAJ2	1
+FAS-Ligand	Fas	1
+pathway	Nfkb1	1
+Fas	Map3k1	1
+NAI2	APOPTOSIS	1
+Gm10108	NAI3	1
+Hspa1a	Proteasome	1
+Aifm1	APOPTOSIS	1
+Mapk10	APOPTOSIS	1
+TNF-alpha	Tnfrsf1a	1
+Hspa1a	Aifm1	1
+Hspa1a	NAJ1	1
+Bid	NAI4	1
+Proteasome	Nfkb1	1
+Map3k1	Mapk10	1
+Proteasome	APOPTOSIS	1
+Ripk1	NF-kB	1
+Nfkb1	CELL SURVIVAL	1
+Casp8	Bid	1
+Casp2	Proteasome	1

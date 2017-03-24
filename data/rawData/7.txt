@@ -1,0 +1,10 @@
+S-Adenosylmethionine	S-Adenosylhomocysteine	1
+Substrate	O-methylated substrate	1
+NAI1	NAJ2	1
+Tpmt	NAJ3	1
+Substrate	N-methylated substrate	1
+Comt1	NAJ1	1
+ATP	Phosphate	1
+NAI2	NAJ4	1
+Substrate	S-methylated substrate	1
+L-Methionine	S-Adenosylmethionine	1

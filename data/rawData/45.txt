@@ -1,0 +1,25 @@
+NAI6	NAI3	1
+NAI6	NAI10	1
+NAI8	NAI7	1
+Rap1GAP	NAI1	1
+Map2k7	Map2k4	1
+Rap1GAP	Sipa1	1
+NAI2	NAI3	1
+Map2k6	NAI7	1
+Jun	Apoptosis	1
+NAI7	Apoptosis	1
+GTP	NAJ2	1
+NAI4	NAI5	1
+NAI1	NAI2	1
+NAI5	Growth and Mitogenesis	1
+Sipa1	Activated	1
+Rasa3	NAI1	1
+NAJ1	GDP	1
+Map2k4	Mapk10	1
+Gb and Gg	NAI1	1
+Gq	Plcb3	1
+Gi	RapGAPII	1
+Plcb3	NAI1	1
+NAI3	NAI4	1
+NAI1	NAI6	1
+Mapk10	Jun	1

@@ -1,0 +1,49 @@
+Akt3	Bad	1
+Hras1	Araf	1
+Ptk2	Adhesion	1
+overexpression (cancers)	Erbb2	1
+Egfr	Nck1	1
+Pak4	Map2k7	1
+Shc2	Grb2	1
+Stat5a	DNA	1
+Gab1	Pik3r5	1
+Akt3	Gsk3b	1
+Nck1	Pak4	1
+Gsk3b	Metabolism	1
+Nrg4	Erbb4	1
+Crk	Abl1	1
+LOC100042150	Erbb4	1
+Araf	Map2k1	1
+Cblc	Receptor ubiquitylation	1
+Erbb3	Pik3r5	1
+Hbegf	Egfr	1
+Erbb4	Pik3r5	1
+Sos1	Hras1	1
+Grb2	Sos1	1
+Erbb4	Grb2	1
+Egfr	Grb2	1
+Nrg1	Erbb3	1
+Egfr	Stat5a	1
+Tgfa	Egfr	1
+Src	Ptk2	1
+Erbb2	Grb2	1
+Mtor	P70S6K	1
+Camk2a	Cellular targets	1
+Prkca	Cellular targets	1
+Mtor	Eif4ebp1	1
+Egfr	Crk	1
+Egfr	Cblc	1
+Egfr	Src	1
+Erbb4	Stat5a	1
+Map2k7	Mapk8	1
+Akt3	Cdkn1a	1
+Bad	Cell survival	1
+Akt3	Mtor	1
+Erbb2	Shc2	1
+Hbegf	Erbb4	1
+Egfr	Plcg1	1
+Erbb4	Shc2	1
+Map2k1	Mapk1	1
+Egfr	Shc2	1
+Receptor ubiquitylation	Degradation	1
+Akt3	Cdkn1b	1

@@ -1,0 +1,7 @@
+Jak2	NAI6	1
+Epo	Epor	1
+P	NAI1	1
+NAI11	Map2k1	1
+NAI7	Jak2	1
+P	NAI8	1
+Ptpru	Jak2	1

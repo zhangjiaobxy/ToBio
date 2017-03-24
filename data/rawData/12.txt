@@ -1,0 +1,34 @@
+all-trans ROL	all-trans RAL	1
+9-cis RAL	9-cis RA	1
+RE	11-cis ROL	1
+RE + dietary lipids	RE	1
+13,14 dehydro RAL	13,14 dehydro RA	1
+beta-carotene	Cd36	1
+RE	all-trans ROL	1
+all-trans RAL	all-trans RA	1
+all-trans ROL	9-cis ROL	1
+beta-carotene	beta-10'-apocarotenal	1
+NAI3	Sult1a1	1
+all-trans RA	MAPK	1
+beta-carotene	Scarb1	1
+lycopene	Bcmo1	1
+canthaxanthin	Bcmo1	1
+NAI3	PPAR pathways	1
+Cd36	beta-carotene	1
+beta-10'-apocarotenal	all-trans RAL	1
+Npc1l1	beta-carotene	1
+beta-carotene	RAL	1
+11-cis ROL	11-cis RAL	1
+all-trans ROL	RE	1
+ROL	RE	1
+13,14 dehydro ROL	13,14 dehydro RAL	1
+NAI2	Cyp26b1	1
+NAI1	beta-carotene	1
+beta-carotene	all-trans RAL	1
+RAL	ROL	1
+Scarb1	beta-carotene	1
+13,14 dehydro RAL	13,14 dehydro ROL	1
+all-trans ROL	13,14 dehydro ROL	1
+9-cis ROL	9-cis RAL	1
+all-trans RAL	all-trans ROL	1
+9-cis RAL	9-cis ROL	1

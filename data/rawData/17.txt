@@ -1,0 +1,13 @@
+Khk	NAJ3	1
+Sord	NAJ2	1
+Fructose 1-phosphate	Dihydroxyacetone phosphate	1
+D-Glyceraldehyde 3-phosphate	glycolysis	1
+Dihydroxyacetone phosphate	D-Glyceraldehyde 3-phosphate	1
+Aldob	NAJ4	1
+Glyceraldehyde	D-Glyceraldehyde 3-phosphate	1
+D-Glucose	Sorbitol	1
+D-Fructose	Fructose 1-phosphate	1
+Akr1b3	NAJ1	1
+Sorbitol	D-Fructose	1
+Fructose 1-phosphate	Glyceraldehyde	1
+D-Glucose	glycolysis	1

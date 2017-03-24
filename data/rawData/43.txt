@@ -1,0 +1,15 @@
+Phosphate	Collagen 1	1
+PTH receptor	RANK ligand	1
+NAI1	Osteoprotegerin	1
+Vitamin D	RANK ligand	1
+Parathyroid hormone	PTH receptor	1
+Vitamin D	Bone sialoprotein	1
+Vitamin D	Osteocalcin	1
+NAI2	Collagen 1	1
+NAI1	Osteocalcin	1
+Vitamin D	FGF-23	1
+RANK ligand	Soluble RANK ligand	1
+Vitamin D	Osteoprotegerin	1
+PTH receptor	Collagen 1	1
+PDGF-BB	NAI2	1
+PDGF-BB	NAI1	1

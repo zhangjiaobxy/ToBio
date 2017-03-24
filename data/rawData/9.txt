@@ -1,0 +1,11 @@
+NAJ3	NAI1	1
+Benzoic acid AMP ester	AMP	1
+Acetyl CoA	Benzoyl-CoA	1
+Benzoyl-CoA	hippuric acid	1
+Benzoic acid AMP ester	Benzoyl-CoA	1
+Benzoic acid	Benzoic acid AMP ester	1
+NAI2	NAJ1	1
+ATP	NAJ3	1
+Benzoyl-CoA	Coenzyme A	1
+glycine	hippuric acid	1
+Acss2	NAJ2	1

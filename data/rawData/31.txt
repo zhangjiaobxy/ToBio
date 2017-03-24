@@ -1,0 +1,16 @@
+Il18	NAI2	1
+Hbegf	proliferative response	1
+Mstn	proliferative response	1
+Zeb1	-698	1
+NAI7	protein synthesis	1
+Eif4ebp1	protein synthesis	1
+Zeb1	-634	1
+Adam10	Hbegf	1
+NAI7	Nr4a3	1
+Il1r1	NAI2	1
+Myog	+296	1
+Nr4a3	NAI8	1
+Il18	Ifng	1
+Ifng	proliferative response	1
+Il1r1	Il1a	1
+NAI6	angiogenesis	1

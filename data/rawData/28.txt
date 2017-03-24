@@ -1,0 +1,29 @@
+Fech	NAJ15	1
+Hmbs	NAJ21	1
+NAJ8	CO2	1
+Urod	NAJ9	1
+NAJ6	H2O	1
+NAI1	NAJ1	1
+Uros	NAJ7	1
+NAI3	NAJ19	1
+protoporphyrinogen IX	Protoporphyrin IX	1
+O2	NAJ10	1
+Cpox	NAJ12	1
+NAJ14	H+	1
+Hydroxymethylbilane	Uroporphyrinogen III	1
+Protoporphyrin IX	protoheme	1
+NAJ11	CO2	1
+NAJ2	NAI2	1
+Coproporphyrinogen III	protoporphyrinogen IX	1
+delta-aminolevulinate	Porphobilinogen	1
+Fe2+	NAJ13	1
+Uroporphyrinogen III	Coproporphyrinogen III	1
+NAJ20	NH3	1
+succinyl-CoA + glycine	delta-aminolevulinate	1
+NAJ17	H2O2	1
+Porphobilinogen	Hydroxymethylbilane	1
+Ppox	NAJ18	1
+O2	NAJ16	1
+Alad	NAJ4	1
+NAJ5	H2O	1
+delta-aminolevulinate	NAJ3	1

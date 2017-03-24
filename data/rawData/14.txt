@@ -1,0 +1,24 @@
+aflatoxin B1	Aflatoxin M1	1
+CYP2A13	NAJ4	1
+Aflatoxin M1	Aflatoxin M1 epoxide	1
+Aflatoxin B1 dialdehyde	Aflatoxin B1 C6-monoaldehyde	1
+Aflatoxin B1 C6-monoalcohol	Aflatoxin B1-6,8-dialcohol	1
+aflatoxin B1	Aflatoxin Q1	1
+aflatoxin B1	Aflatoxin B1 exo-8,9-epoxide	1
+Aflatoxin B1 C8-monoalcohol	Aflatoxin B1-6,8-dialcohol	1
+NAI2	NAJ7	1
+Cyp1a2	NAJ2	1
+Cyp1a2	NAJ8	1
+Aflatoxin B1 dialdehyde	Aflatoxin B1 C8-monoaldehyde	1
+Aflatoxin B1 C6-monoaldehyde	Aflatoxin B1 C6-monoalcohol	1
+NAI3	NAJ3	1
+Aflatoxin B1 exo-8,9-epoxide	DNA adducts	1
+Aflatoxin B1 C8-monoaldehyde	Aflatoxin B1 C8-monoalcohol	1
+Ephx1	NAJ9	1
+NAI1	NAJ5	1
+Aflatoxin B1 8,9-dihydrodiol	Aflatoxin B1 dialdehyde	1
+aflatoxin B1	Aflatoxin-endo-B1-8,9-epoxide	1
+NAI1	NAJ6	1
+CYP3A4	NAJ1	1
+Aflatoxin B1 exo-8,9-epoxide	Aflatoxin B1 exo-8,9-epoxide-GSH	1
+Aflatoxin B1 exo-8,9-epoxide	Aflatoxin B1 8,9-dihydrodiol	1

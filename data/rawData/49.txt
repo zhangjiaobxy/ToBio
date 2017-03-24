@@ -1,0 +1,31 @@
+NAI6	Contraction & Actin-Myosin	1
+Sra1	Membrane	1
+NAI5	Disassembly of Actin	1
+Gna13	Arhgef1	1
+NAI1	NAJ1	1
+NAI3	Cdc42	1
+Cdc42	NAI7	1
+Mapk10	Anti-Apoptotic	1
+Arhgef1	Rhoa	1
+Calm1	Actin Polymerization	1
+Rhoa	Diap1	1
+Sh3rf1	Mapk10	1
+Rac1	Limk1	1
+Pik3r2	NAJ3	1
+NAJ2	Pip4k2a	1
+Cit	Cytokinesis	1
+Limk1	NAI5	1
+Pip4k2a	Actin	1
+Cdc42	NAI2	1
+Rhoa	NAI6	1
+Rac1	NAI4	1
+Activated Rho A	NAI3	1
+Pak3	Stress Fiber	1
+Pfn1	Actin	1
+NAI2	Calm1	1
+Diap1	Pfn1	1
+Rhoa	Activated Rho A	1
+Rac1	NAI7	1
+Cdc42	Tnk2	1
+NAI3	Rac1	1
+Iqgap2	Actin Reorganization	1

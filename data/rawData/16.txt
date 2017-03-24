@@ -1,0 +1,81 @@
+Sult1e1	NAJ10	1
+Estradiol-2,3-quinone	2-Hydroxyestradiol	1
+Estradiol	4-hydroxyestradiol	1
+NAI9	NAJ29	1
+Estrone-3,4-quinone	4-hydroxyestrone	1
+4-Methoxyestrone	4-Methoxyestrone-3-glucuronide	1
+Sult1a1	NAJ32	1
+UGT2B7	NAJ22	1
+Sult1a1	NAJ9	1
+NAI6	NAJ6	1
+Estrone	Estrone sulfate	1
+Estradiol-2,3-semiquinone	Estradiol-2,3-quinone	1
+Estrone	Estrone-17-glucuronide	1
+4-hydroxyestradiol	4-Hydroxyestradiol-3-glucuronide	1
+Comt1	NAJ7	1
+NAI10	NAJ31	1
+4-hydroxyestradiol	4-hydroxy-estradiol-4-glucuronide	1
+Estrone	Estradiol	1
+4-Methoxyestradiol	4-Methoxyestradiol-3-glucuronide	1
+NAI5	NAJ23	1
+Estrone	2-Hydroxyestrone	1
+Comt1	NAJ4	1
+Nqo1	NAJ19	1
+4-hydroxyestradiol	4-hydroxy-estradiol-sulfate	1
+Estradiol	Estradiol sulfate	1
+Comt1	NAJ14	1
+2-Hydroxyestradiol	Estradiol-2,3-semiquinone	1
+Ugt1a10	NAJ26	1
+Estradiol-3,4-semiquinone	Estradiol-3,4-quinone	1
+4-hydroxyestrone	Estrone-3,4-semiquinone	1
+2-Hydroxyestradiol	2-hydroxyestradiol-3-glucuronide	1
+Estrone-2,3-quinone	2-Hydroxyestrone	1
+NAI3	NAJ12	1
+Ugt1a10	NAJ20	1
+4-hydroxyestrone	4-Methoxyestrone	1
+Estrone-2,3-semiquinone	Estrone-2,3-quinone	1
+Sult1a1	NAJ5	1
+Ugt1a10	NAJ25	1
+4-hydroxyestradiol	4-Methoxyestradiol	1
+Estradiol	2-Hydroxyestradiol	1
+2-Hydroxyestradiol	2-hydroxy-estradiol-2-glucuronide	1
+NAI7	NAJ28	1
+Estradiol-2,3-quinone	DNA adducts	1
+Nqo1	NAJ17	1
+Estradiol-2,3-quinone	NAI4	1
+NAI8	NAJ30	1
+Estrone	Estrone-3-glucuronide	1
+2-Methoxyestrone	2-Methoxyestrone 3-glucuronide	1
+Estradiol-3,4-quinone	DNA adducts	1
+Estrone-3,4-semiquinone	Estrone-3,4-quinone	1
+4-hydroxyestrone	4-hydroxyestrone-3-glucuronide	1
+Estradiol-3,4-quinone	4-hydroxyestradiol	1
+4-hydroxyestradiol	Estradiol-3,4-semiquinone	1
+Comt1	NAJ15	1
+CYP3A4	NAJ3	1
+Estrone	4-hydroxyestrone	1
+ARSC	NAJ33	1
+2-Hydroxyestrone	2-Hydroxyestrone-3-glucuronide	1
+Estrone-3,4-quinone	DNA adducts	1
+2-Hydroxyestrone	Estrone-2,3-semiquinone	1
+Cyp1b1	NAJ2	1
+Ugt1a10	NAJ21	1
+2-Hydroxyestradiol	2-Methoxyestradiol	1
+Oxygen	Superoxide	1
+Estrone-2,3-quinone	DNA adducts	1
+NAI11	NAJ8	1
+Nqo1	NAJ18	1
+2-Methoxyestradiol	2-Methoxyestradiol-3-glucuronide	1
+NAI3	NAJ13	1
+NAI1	NAJ1	1
+Estradiol	Estradiol-3-glucuronide	1
+Estrone sulfate	Estrone	1
+Estradiol	Estradiol-17-glucuronide	1
+Estrone	16a-Hydroxyestrone	1
+Ugt1a1	NAJ27	1
+2-Hydroxyestradiol	2-hydroxy-estradiol-sulfate	1
+Estradiol sulfate	Estradiol	1
+2-Hydroxyestrone	2-Methoxyestrone	1
+Nqo1	NAJ16	1
+Ugt1a10	NAJ24	1
+NAI2	NAJ11	1

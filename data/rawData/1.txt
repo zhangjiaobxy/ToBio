@@ -1,0 +1,32 @@
+LDL	IDL	1
+Dgat1	NAJ5	1
+Ldlr	Cholesterol	1
+Abca1	HDL	1
+NAJ11	Apoa1	1
+LDL	Ldlr	1
+Cholesterol	Cholesterol Ester	1
+Cyp7a1	NAJ2	1
+Soat1	NAJ3	1
+Lcat	NAJ10	1
+Mttp	NAJ6	1
+VLDL	IDL	1
+IDL	HDL	1
+Cholesterol Ester	Group object	1
+Cholesterol	Cholic acid	1
+Abca1	Cholesterol	1
+Free FA	Triglycerides	1
+NAJ4	Phospholipid	1
+Apoa4	HDL	1
+Lrp1	Cholesterol	1
+Acetyl-CoA	Cholesterol	1
+LDL	Scarb1	1
+Lpl	NAJ8	1
+Cetp	NAJ9	1
+Scarb1	Cholesterol	1
+Hmgcr	NAJ1	1
+Statin	Hmgcr	1
+Pltp	NAJ12	1
+VLDL	HDL	1
+Lipc	NAJ7	1
+IDL	Lrp1	1
+Free FA	Cholesterol Ester	1

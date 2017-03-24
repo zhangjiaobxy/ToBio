@@ -1,0 +1,33 @@
+Crkl	Dock1	1
+Rap1b	CDC42	1
+pathway	Changes in Cytoskeleton	1
+Pik3ca	Stat3	1
+NAI5	NAI4	1
+Pten	NAJ2	1
+Met	Hgf	1
+of Cox2	Anoikis	1
+Pak1	Anoikis	1
+NAI2	NAI5	1
+Crk	Map4k1	1
+Hras1	Raf1	1
+Map4k1	Mapk8	1
+Rapgef1	Rap1a	1
+Ptpn11	Hras1	1
+Stat3	Trancription	1
+Pik3ca	AKT Pathway	1
+NAI4	Transcription	1
+Transcription	Anoikis	1
+Mapk8	Transcription	1
+AKT Pathway	Pak1	1
+Ptk2	Pik3ca	1
+Gab1	NAJ1	1
+Trancription	Changes in Cytoskeleton	1
+Raf1	NAI2	1
+Gab1	Crkl	1
+NAI3	NAI5	1
+Dock1	RAC1	1
+Crkl	Rapgef1	1
+NAI5	Elk1	1
+Gab1	Crk	1
+Elk1	Trancription	1
+Crkl	Map4k1	1

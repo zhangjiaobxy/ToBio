@@ -1,0 +1,17 @@
+NAI2	ABCA1	1
+Sirt1	Ppara	1
+NAI1	Hmgcr	1
+Sirt6	Srebf1	1
+Sirt1	Srebf1	1
+NAI1	Hmgcs1	1
+NAI1	FASN	1
+NAI2	PRKAA1	1
+Mtor	NAI1	1
+Med15	NAI1	1
+Sirt1	Ppargc1a	1
+Sirt1	Nr1h3	1
+NAI2	Sirt6	1
+NAI1	SCD	1
+NAI1	Ldlr	1
+Sirt1	Sirt6	1
+NAI1	Med15	1

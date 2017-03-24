@@ -1,0 +1,16 @@
+Hop	Cx40	1
+miR-208a	Cx40	1
+Cx40	Prolonged PR interval, abberand conduction	1
+miR-208a	Gata4	1
+Trap1	beta-MHC	1
+miR-208a	Prolonged PR interval, abberand conduction	1
+miR-208a	Myostatin	1
+Gata4	Hop	1
+miR-208a	Trap1	1
+miR-208a	Hypertrophy	1
+miR-208b	Myostatin	1
+miR-208a	beta-MHC	1
+beta-MHC	Hypertrophy	1
+miR-208b	Trap1	1
+miR-208a	Atrial fibrilations	1
+Myostatin	Hypertrophy	1

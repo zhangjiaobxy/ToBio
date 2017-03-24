@@ -1,0 +1,31 @@
+Hmgcs1	NAJ15	1
+Mevalonic acid-5P	Mevalonic acid 5-pyrophosphate	1
+Dhcr7	NAJ14	1
+isopentenyl pyrophosphate	farnesyl pyrophosphate	1
+Fdft1	NAJ9	1
+Fatty Acid Degradation	Acetyl-CoA	1
+NAI1	NAJ12	1
+Sc5d	NAJ13	1
+Mevalonic acid 5-pyrophosphate	isopentenyl pyrophosphate	1
+Mvd	NAJ4	1
+Dimethylallylpyrophosphate	Geranyl-PP	1
+Lanosterin	Lathosterol	1
+(S)-2,3-Epoxysqualene	Lanosterin	1
+Fdps	NAJ6	1
+Squalene	(S)-2,3-Epoxysqualene	1
+farnesyl pyrophosphate	Squalene	1
+Idi1	NAJ8	1
+HMG-CoA	Mevalonic acid	1
+Mevalonic acid	Mevalonic acid-5P	1
+Lathosterol	7-Dehydrocholesterol	1
+Fdps	NAJ7	1
+Acetyl-CoA	HMG-CoA	1
+Dimethylallylpyrophosphate	isopentenyl pyrophosphate	1
+Lss	NAJ11	1
+Hmgcr	NAJ1	1
+Pmvk	NAJ3	1
+Sqle	NAJ10	1
+Mvk	NAJ2	1
+7-Dehydrocholesterol	Cholesterol	1
+Geranyl-PP	farnesyl pyrophosphate	1
+Fdps	NAJ5	1

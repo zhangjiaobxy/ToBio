@@ -1,0 +1,48 @@
+Got2	NAJ18	1
+P-enolpyruvate	Pyruvate	1
+TCA cycle	Malate	1
+Glucose-6P	Pentose Phosphate Pathway	1
+Oxaloacetate	Aspartate	1
+NAI11	NAJ24	1
+Pck1	NAJ17	1
+Dihydroxyacetone-P	Triglyceride synthesis	1
+Dihydroxyacetone-P	Glyceraldehyde 3P	1
+3P-Glycerate	2P-Glycerate	1
+NAI1	NAJ25	1
+NAI12	NAJ3	1
+Glucose-6P	Glucose	1
+NAI10	NAJ15	1
+Glucose	Glucose-6P	1
+Fructose 6P	Glucose-6P	1
+NAI8	NAJ7	1
+NAI2	NAJ1	1
+NAI13	NAJ5	1
+Pyruvate	Oxaloacetate	1
+NAJ12	Glycogen Metabolism	1
+NAI3	NAJ20	1
+Mdh1	NAJ10	1
+2P-Glycerate	P-enolpyruvate	1
+NAI9	NAJ11	1
+Got1	NAJ2	1
+Pcx	NAJ8	1
+NAI6	NAJ21	1
+NAI5	NAJ19	1
+Oxaloacetate	P-enolpyruvate	1
+1,3BP-Glycerate	3P-Glycerate	1
+Fructose 6P	Fructose-1,6BP	1
+Oxaloacetate	Malate	1
+Mdh2	NAJ13	1
+Malate	Oxaloacetate	1
+Acetyl-CoA	TCA cycle	1
+NAJ22	Dihydroxyacetone-P	1
+Gpi1	NAJ4	1
+Pyruvate	Acetyl-CoA	1
+Tpi1	NAJ16	1
+Fructose-1,6BP	Fructose 6P	1
+Fructose-1,6BP	Glyceraldehyde 3P	1
+G6pc	NAJ6	1
+Glyceraldehyde 3P	1,3BP-Glycerate	1
+Aspartate	Oxaloacetate	1
+NAI4	NAJ14	1
+NAI7	NAJ9	1
+Pyruvate	Lactate	1

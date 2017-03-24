@@ -1,0 +1,17 @@
+Prkca	Nfe2l2	1
+Mapk8	Nfe2l2	1
+Aimp2	Nfe2l2	1
+Pik3ca	Nfe2l2	1
+Caffeic acid phenethyl ester	NAI3	1
+NAI4	Gclc	1
+NAI4	Gclm	1
+NAI4	Hmox1	1
+NAI4	Nqo1	1
+Pik3ca	Cebpb	1
+Curcumin	NAI3	1
+NAI3	Keap1	1
+6-HITC	NAJ1	1
+NAI4	Gsta2	1
+Sulforaphane	NAI3	1
+NAI3	Nfe2l2	1
+Ephb2	Nfe2l2	1

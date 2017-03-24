@@ -1,0 +1,124 @@
+Txnrd2	Thioredoxin	1
+d5 desaturase	EPA (n-3)	1
+Manganese	SOD	1
+Endoperoxidase	PGG3	1
+Leukotriene A4	Leukotriene C4	1
+Selenium	Sepx1	1
+LA (n-6)	Fads2	1
+a Tocopherol	a-tocopherol	1
+Zinc	Sepx1	1
+Gsr	NADPH	1
+Gsr	Glutathione	1
+Heme	Ptgis	1
+Cysteine	Glutathione	1
+a Tocopherol	SOD	1
+15-HETE	Alox5	1
+Glutathione	ROS	1
+Vitamin B12	Mtr	1
+Ptgds	PGD2	1
+Endoperoxidase	PGH2	1
+Choline	Betaine	1
+5,10-METHYL-THF	Homocysteine	1
+PGH2	THAS	1
+H2O2	Gpx2	1
+AA (n-6)	15-HETE	1
+COX2	PGG2	1
+Gpx3	Glutathione disulfide	1
+COX1	PGE3	1
+Iron	Heme	1
+Riboflavin	FMN1	1
+Lipoic acid	ROS	1
+Choline	Carnitine	1
+SOD	H2O2	1
+Homocysteine	ROS	1
+PGG3	Ptges	1
+Selenium	TRXR 3	1
+Thioredoxin	Ascorbic acid	1
+Leukotriene A4	Leukotriene B4	1
+S-Adenosylhomocysteine 	Cbs	1
+Heme	Cat	1
+EPA (n-3)	COX2	1
+Mtr	L-Methionine	1
+1-Methylnicotinamide	1-methylnicotinamide	1
+Niacin	NADPH	1
+Cat	H2O	1
+Transcobalamin	Vitamin B12	1
+S-Adenosylhomocysteine 	S-Adenosylhomocysteine	1
+F2-Isoprostane	iPF2-alpha	1
+Heme	THAS	1
+FOLIC ACID	L-Glutamic acid	1
+Thioredoxin	Uric acid	1
+PGH2	Ptgds	1
+FOLIC ACID	Ethanolamine	1
+Selenium	Alox5	1
+Uric acid	Xanthine	1
+Mthfr	FOLIC ACID	1
+Pnpo	Pyridoxal-5'-phosphate	1
+Thromboxane A2	Tromboxane A2	1
+Pyridoxal-5'-phosphate	Cbs	1
+PGG2	Endoperoxidase	1
+Thioredoxin	Lipoic acid	1
+Uric acid	SOD	1
+Leukotriene D4	LeukotrieneE4	1
+Ptges	PGE2	1
+FAD	Gsr	1
+Cbs	Cystathione	1
+Ascorbic acid	ROS	1
+EPA (n-3)	COX1	1
+PGFS	PGF2a	1
+L-Methionine	Methionine	1
+Gpx3	H2O	1
+Heme	Ptgds	1
+Mtr	Homocysteine	1
+ALA (n-3)	Fads2	1
+Cobalamin	Transcobalamin	1
+AA (n-6)	d4 desaturase	1
+FAD	Xdh	1
+Selenium	Selk	1
+Heme	COX2	1
+Calcium	Transcobalamin	1
+Sepw1	Glutathione	1
+Lipoic acid	SOD	1
+AA (n-6)	COX1	1
+S-Adenosylhomocysteine 	S-Adenosylmethionine	1
+Serine	Cbs	1
+Cobalamin	Mtr	1
+d4 desaturase	C22:5 (n-6)	1
+Betaine	Mtr	1
+PGH2	Ptgis	1
+a Tocopherol	Alox5	1
+Ethanolamine	Choline	1
+Selenium	Sepw1	1
+THAS	Thromboxane B2	1
+FOLIC ACID	Heme	1
+Ptgis	PGI2	1
+Zinc	SOD	1
+L-Methionine	Betaine	1
+Alox5	5-HPETE	1
+EPA (n-3)	d4 desaturase	1
+L-Methionine	Cysteine	1
+LeukotrieneE4	Leukotriene F4	1
+LA (n-6)	AA (n-6)	1
+Xdh	Hypoxanthine	1
+Niacin	NADP	1
+Thioredoxin	a Tocopherol	1
+a Tocopherol	COX1	1
+Ptges	PGH3	1
+Thromboxane A2	Thromboxane B2	1
+Glutathione	Gpx1	1
+L-Glutamic acid	Calcium	1
+Copper	SOD	1
+PGE3	Endoperoxidase	1
+COX1	PGG2	1
+PGH2	PGFS	1
+Alox5	Lipoxin A4	1
+Leukotriene C4	Leukotriene D4	1
+AA (n-6)	COX2	1
+FOLIC ACID	5,10-METHYL-THF	1
+Ascorbic acid	SOD	1
+d5 desaturase	AA (n-6)	1
+Niacin	1-Methylnicotinamide	1
+Hypoxanthine	Uric acid	1
+Glutathione disulfide	Gsr	1
+a Tocopherol	COX2	1
+Cat	O2	1
