@@ -1,0 +1,54 @@
+Masp2	Group object	1
+F13b	Group object	1
+Kng1	F12	1
+insulin etc.	C3	1
+C4bp	Group object	1
+Serpind1	F2	1
+F12	Plg	1
+Proc	Thbd	1
+Serping1	Group object	1
+activated platelets etc.	F12	1
+Vascular injury	F3	1
+F2	F2r	1
+F11	NAJ9	1
+Tfpi	Group object	1
+Bdkrb1	Cell adhesion,	1
+Group object	C3	1
+NAJ12	Klkb1	1
+Convertase	Group object	1
+Kng1	Bradykinin	1
+F12	F11	1
+NAJ6	Group object	1
+Klkb1	NAJ13	1
+Group object	NAJ5	1
+Serpine1	Plat	1
+Thrombin	Thbd	1
+F12	H2-Bf	1
+Proc	Serpine1	1
+Cfh	H2-Bf	1
+Plau	Plaur	1
+F2	Serpina5	1
+Serpinf2	Plg	1
+complex	Group object	1
+Klkb1	Kng1	1
+NAJ8	F13b	1
+C7	NAJ1	1
+Hc	Cell lysis	1
+F11	Group object	1
+Serpinc1	F11	1
+Plg	Clot	1
+Cfi	C3	1
+Serpinc1	Group object	1
+F9	Group object	1
+Klkb1	Plg	1
+F2	Fgb	1
+Plat	Plg	1
+Bradykinin	Bdkrb1	1
+Group object	F2	1
+NAJ10	Group object	1
+Tfpi	F10	1
+Cd59a	C9	1
+Clot	fibrin degradation	1
+Group object	Clot	1
+Group object	A2m	1
+Plg	C3	1

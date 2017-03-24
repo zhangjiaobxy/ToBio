@@ -1,0 +1,15 @@
+NAI3	NAI2	1
+NALP3 inflammasome	IL-1ï¿½ and IL-18	1
+NAI4	NAI3	1
+Nod1	NAI4	1
+NAI3	Mapk8	1
+DAMPS	NALP3 inflammasome	1
+Erbb2ip	Nod2	1
+NAI1	degradation	1
+Nod2	NAI4	1
+NAI3	Ephb2	1
+NAI1	transcription	1
+TriDAP	Nod1	1
+MDP	Nod2	1
+NAI2	NAI1	1
+NAI3	MAPK	1

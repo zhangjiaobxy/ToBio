@@ -1,0 +1,5 @@
+NAI4	NAI5	1
+NAI6	Eif4e	1
+Itgb4bp	Recruitment of 60S subunit	1
+NAI1	NAI5	1
+Eef2k	Eef2	1

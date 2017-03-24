@@ -1,0 +1,7 @@
+Mir222	Hmbox1	1
+Mir222	NAI1	1
+Exercise	Mir222	1
+NAI1	Growth, Proliferation and Cardiac Repair	1
+Hmbox1	Growth, Proliferation and Cardiac Repair	1
+Cdkn1b	Growth, Proliferation and Cardiac Repair	1
+Mir222	Cdkn1b	1

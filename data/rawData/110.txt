@@ -1,0 +1,24 @@
+Myc	Gadd45a	1
+NAI16	NAI12	1
+NAI13	NAI11	1
+NAJ3	Mdm2	1
+Trp53	Gadd45a	1
+NAJ1	NAI14	1
+Gadd45a	Pcna	1
+NAI3	NAI5	1
+Atm	Mdm2	1
+Trp53	p53	1
+NAI11	NAI15	1
+NAI17	NAI18	1
+NAI18	NAI19	1
+NAI21	NAI19	1
+Trp53	NAI17	1
+NAI19	phosphorylation of proteins	1
+NAI19	NAI21	1
+NAI15	NAI3	1
+NAI20	NAJ2	1
+involved in G1/S transition	DNA replication	1
+Pcna	DNA replication	1
+Gadd45a	phosphorylation of proteins	1
+Gadd45a	NAI17	1
+NAI12	NAI11	1

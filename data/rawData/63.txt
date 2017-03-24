@@ -1,0 +1,32 @@
+JNK	p-c-Jun	1
+Egfr	ERK	1
+Pitx2	Dkk2	1
+ERK	Periderm Migration	1
+Shh	Bmp4	1
+Fgf10	Shh	1
+Bmp Canonical Signaling	Conjunctival Cell Fate	1
+Periderm Migration	Eyelid Closure	1
+Dkk2	NAI2	1
+Activin beta-B	MEKK1	1
+Sfrp1	Wnt Canonical Signaling	1
+Bmp Canonical Signaling	p-c-Jun	1
+Bmp Canonical Signaling	Conjunctiva Proliferation and	1
+MEKK1	JNK	1
+NAI2	Notch	1
+Dkk2	Wnt Canonical Signaling	1
+Bmp Canonical Signaling	NAI2	1
+Tgfa	Egfr	1
+Wnt Canonical Signaling	Pitx2	1
+Wnt Canonical Signaling	Bmp Canonical Signaling	1
+NAI1	Smad4	1
+Wnt Canonical Signaling	Meibomian Gland	1
+Smad4	Bmp Canonical Signaling	1
+p-c-Jun	Periderm Migration	1
+Fgfr2	Bmp4	1
+Fgf10	Tgfa	1
+Bmp Canonical Signaling	Transdifferentiation of Meibomian	1
+Notch	Eyelid Closure	1
+Fgf10	Fgfr2	1
+Bmp4	NAI1	1
+Shh	Sfrp1	1
+Fgf10	Activin beta-B	1

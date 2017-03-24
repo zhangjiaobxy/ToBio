@@ -1,0 +1,61 @@
+Ccnd2	mmu-miR-16-5p	1
+Insulin Signaling	Fasn	1
+PI3K/AKT Signalling	Ccnd2	1
+Insulin Signaling	Pik3r1	1
+Acaca	mmu-miR-15a-5p	1
+Pik3r1	mmu-miR-15a-5p	1
+Acaca	mmu-miR-425-5p	1
+PI3K/AKT Signalling	Col1a2	1
+PI3K/AKT Signalling	Bcl2	1
+Insulin Signaling	Mtor	1
+Insulin Signaling	Mapk3	1
+Col1a1	mmu-miR-29a-3p	1
+PI3K/AKT Signalling	Col5a3	1
+Col3a1	mmu-miR-29b-3p	1
+PI3K/AKT Signalling	Col4a2	1
+Insulin Signaling	Acaca	1
+Sos1	mmu-miR-15a-5p	1
+PI3K/AKT Signalling	Col3a1	1
+Insulin Signaling	Pik3r3	1
+Bcl2	mmu-miR-503-5p	1
+Col1a1	mmu-miR-29b-3p	1
+Bcl2	mmu-miR-16-5p	1
+Mtor	mmu-miR-15a-5p	1
+Insulin Signaling	Exoc7	1
+Fasn	mmu-miR-15a-5p	1
+Ccnd2	mmu-miR-503-5p	1
+Col3a1	mmu-miR-29a-3p	1
+Crkl	mmu-miR-425-5p	1
+Bad	mmu-miR-425-5p	1
+Cdkn1b	mmu-miR-503-5p	1
+mmu-miR-15a-5p	PI3K/AKT Signalling	1
+Socs1	Insulin Signaling	1
+Pik3r1	mmu-miR-425-5p	1
+Prkx	mmu-miR-425-5p	1
+Insulin Signaling	Sos1	1
+Pik3r3	mmu-miR-15a-5p	1
+Flot2	mmu-miR-15a-5p	1
+Insulin Signaling	Prkx	1
+PI3K/AKT Signalling	Col1a1	1
+Col5a3	mmu-miR-29b-3p	1
+Col1a2	mmu-miR-29a-3p	1
+Prkar2a	mmu-miR-425-5p	1
+Eif4e2	mmu-miR-425-5p	1
+Insulin Signaling	Raf1	1
+PI3K/AKT Signalling	Bcl2l11	1
+Col1a2	mmu-miR-29b-3p	1
+Bcl2l11	mmu-miR-29b-3p	1
+mmu-miR-155-5p	Socs1	1
+Insulin Signaling	Eif4e2	1
+Insulin Signaling	Crkl	1
+Insulin Signaling	Bad	1
+mmu-miR-155-5p	Rheb	1
+Mapk3	mmu-miR-15a-5p	1
+Rheb	Insulin Signaling	1
+Raf1	mmu-miR-15a-5p	1
+Col4a2	mmu-miR-29b-3p	1
+Sos1	mmu-miR-425-5p	1
+Exoc7	mmu-miR-15a-5p	1
+PI3K/AKT Signalling	Cdkn1b	1
+Insulin Signaling	Flot2	1
+Insulin Signaling	Prkar2a	1

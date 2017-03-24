@@ -1,0 +1,6 @@
+Hfe	Tmprss6	1
+Tmprss6	Hjv (hemojuvelin)	1
+Bmp6	Hjv (hemojuvelin)	1
+Hjv (hemojuvelin)	NAI1	1
+Hfe	NAJ1	1
+Hfe	Hjv (hemojuvelin)	1

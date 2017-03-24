@@ -1,0 +1,36 @@
+Hrh1	Gq/G11 Pathway	1
+Htr1b	Gi/Go Pathway	1
+Adrb1	Gs Pathway	1
+Dopamine	NAI3	1
+Htr2a	Gq/G11 Pathway	1
+Drd2	Gi/Go Pathway	1
+Adrb3	Gs Pathway	1
+Chrm5	Gq/G11 Pathway	1
+Drd3	Gi/Go Pathway	1
+Htr2b	Gq/G11 Pathway	1
+Adra1d	Gq/G11 Pathway	1
+Chrm4	Gi/Go Pathway	1
+Htr2c	Gq/G11 Pathway	1
+Adra1b	Gq/G11 Pathway	1
+Adra2a	Gi/Go Pathway	1
+Htr5a	Gs Pathway	1
+Adra2a	Gq/G11 Pathway	1
+Htr1f	Gi/Go Pathway	1
+Htr7	Gs Pathway	1
+Hrh2	Gs Pathway	1
+Adra1a	Gq/G11 Pathway	1
+Adrb2	Gs Pathway	1
+NAI1	Muscarinic	1
+Serotonin	NAI7	1
+Drd1a	Gs Pathway	1
+Chrm2	Gi/Go Pathway	1
+Adra2b	Gi/Go Pathway	1
+Htr1d	Gi/Go Pathway	1
+Chrm1	Gq/G11 Pathway	1
+Adra2c	Gi/Go Pathway	1
+Htr1a	Gi/Go Pathway	1
+Drd4	Gi/Go Pathway	1
+Drd5	Gi/Go Pathway	1
+NAI2	NAI4	1
+Chrm3	Gq/G11 Pathway	1
+Histamine	NAI5	1

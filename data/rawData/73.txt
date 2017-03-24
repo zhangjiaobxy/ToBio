@@ -1,0 +1,31 @@
+Pyruvate	Oxaloacetate	1
+Citrate	Fatty Acid Synthesis	1
+Isocitrate	alpha-Ketoglutarate	1
+Mdh2	NAJ8	1
+Succinate	Fumarate	1
+Succinyl-CoA	Succinate	1
+Cs	NAJ9	1
+Acetyl-CoA	NAJ10	1
+Fh1	NAJ6	1
+Aco2	NAJ12	1
+NAI7	NAJ3	1
+Degradation of Fatty Acids Containing an Even Number of Carbons	Acetyl-CoA	1
+Pcx	NAJ13	1
+Oxaloacetate	Citrate	1
+Suclg1	Electron Transport Chain	1
+alpha-Ketoglutarate	Succinyl-CoA	1
+Oxaloacetate	Gluconeogenesis	1
+Malate	Oxaloacetate	1
+Mdh1	NAJ14	1
+Pyruvate	Acetyl-CoA	1
+NAI5	NAI8	1
+NAI1	NAJ5	1
+NAI3	NAJ4	1
+Citrate	Isocitrate	1
+Sdhd	NAJ7	1
+Glycolysis	Pyruvate	1
+Degradation of Fatty Acids Containing an Even Number of Carbons	Succinyl-CoA	1
+NAI2	NAI8	1
+NAJ2	Electron Transport Chain	1
+Fumarate	Malate	1
+NAI8	NAJ3	1

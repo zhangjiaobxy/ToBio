@@ -1,0 +1,98 @@
+Pth	Runx2	1
+Fgfr3	Stat1	1
+integrins	Col10a1	1
+Pthlh	Nkx3-2	1
+Pth	Pth1r	1
+Tgfb1	Pthlh	1
+NAI7	Full differentiation	1
+Cst10	Enpp1	1
+Igf1r	Proliferation	1
+Sox9	Runx2	1
+Runx2	Ihh	1
+Gs	cAMP	1
+BMPs	Fgf2	1
+Sox9	Sox5	1
+Sox9	Col2a1	1
+Thra	Fgfr3	1
+Growth hormone	Ghr	1
+TNAP	Hypertrophy	1
+Fgf2	Ihh	1
+Gli3	Proliferation	1
+Igf2	Igf1r	1
+Hypertrophy	Col10a1	1
+Pth1r	Hypertrophy	1
+Ift88	Hypertrophy	1
+NAI4	NAJ2	1
+Ghr	Igf1	1
+Bmp6	Proliferation	1
+Triiodothyronine	Dying	1
+Tgfb2	Pthlh	1
+Runx2	Col10a1	1
+Ptch1	Tgfb2	1
+Fgf18	Vegfa	1
+integrins	Col2a1	1
+Ihh	Ptch1	1
+Ptch1	Gli3	1
+Scin	Hypertrophy	1
+canonical / non-canonical	Proliferation	1
+Sox6	Full differentiation	1
+Ihh	Proliferation	1
+Prkaca	Sox9	1
+Igf1	Igf1r	1
+Tgfb1	Dying	1
+Sox5	Full differentiation	1
+Gli3	Pthlh	1
+cAMP	Prkaca	1
+Fgf2	Proliferation	1
+Fgf2	Pth1r	1
+Sox9	Proliferation	1
+Pthlh	Sox9	1
+Runx2	Hypertrophy	1
+Mef2c	Runx2	1
+Col2a1	Ddr2	1
+Bmp6	Hypertrophy	1
+Thra	Igf1	1
+Hypertrophy	Col2a1	1
+NAI5	NAJ1	1
+Frzb	WNT signaling	1
+NAI5	NAJ2	1
+Ihh	BMPs	1
+Ihh	Osteoblastic	1
+Thra	Akt1	1
+Triiodothyronine	Thra	1
+Ihh	Tgfb2	1
+Oxygen	Hdac4	1
+Chst11	Tgfb1	1
+Cst10	Dying	1
+Hdac4	Runx2	1
+Col2a1	Hypertrophy	1
+Kif3a	Hypertrophy	1
+Hypertrophy	Ihh	1
+Col2a1	Mmp13	1
+Enpp1	Mineralisation	1
+Thyroid hormone	Pth1r	1
+Oxygen	Runx2	1
+Pthlh	Pth1r	1
+Vegfa	Vascular invastion	1
+Mef2c	Col10a1	1
+Thra	Igf1r	1
+Tgfb1	Hypertrophy	1
+Stat1	Proliferation	1
+Thra	Hypertrophy	1
+Fgf18	Fgfr3	1
+Runx2	Vegfa	1
+Thyroid hormone	Thra	1
+TNAP	Mineralisation	1
+Stat1	Hypertrophy	1
+Gli3	Hypertrophy	1
+Tgfb2	Scin	1
+Col10a1	Ddr2	1
+canonical / non-canonical	Hypertrophy	1
+Bmp7	Proliferation	1
+Thra	Stat5b	1
+Cst10	Hypertrophy	1
+Sox9	Hypertrophy	1
+Igf1r	Hypertrophy	1
+Pth1r	Proliferation	1
+Nkx3-2	Runx2	1
+Sox9	Sox6	1

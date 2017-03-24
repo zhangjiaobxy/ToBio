@@ -1,0 +1,22 @@
+Ptpn6	NAJ1	1
+Plcg2	PIP2	1
+Ptpn6	Syk	1
+Ptpn6	NAJ2	1
+Actin  reorganization	Phagocytosis migration	1
+Syk	Plcg2	1
+NAI4	NAI6	1
+NAI4	Nckap1l	1
+NAI6	Oxygen	1
+Cybb	NAI6	1
+NAI9	NAI4	1
+Hck	Siglece	1
+NAI5	NAI6	1
+Lyn	NAI2	1
+Arpc1b	Actin  reorganization	1
+Pik3	NAJ4	1
+PIP2	PIP3	1
+Nckap1l	Arpc1b	1
+Hck	NAI2	1
+Syk	Pik3	1
+Pik3	Ncf1	1
+Lyn	Siglece	1

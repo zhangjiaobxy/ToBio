@@ -1,0 +1,30 @@
+DHA	Androstenedione	1
+Group object	NAJ7	1
+Hsd3b6	NAJ12	1
+Hydroxyprogesterone aldolase	NAJ10	1
+F13b	NAJ4	1
+Steroid-19-Hydroxylase	NAJ11	1
+17a-OH-pregnenolone	DHA	1
+Cyp17a1	NAJ8	1
+Cyp17a1	NAJ5	1
+Testosterone	Estradiol	1
+DHA	Androstenediol	1
+Cholesterol	Pregnenolone	1
+17a-OH-progesterone	Androstenedione	1
+Group object	NAJ9	1
+Progesterone	17a-OH-progesterone	1
+Androstenedione	Estrone	1
+Pregnenolone	17a-OH-pregnenolone	1
+Group object	NAJ1	1
+Group object	NAJ6	1
+Testosterone	Dihydrotestosterone	1
+17a-OH-pregnenolone	17a-OH-progesterone	1
+Pregnenolone	Progesterone	1
+Group object	NAJ3	1
+17a-OH-progesterone	To Glucocorticoid Synthesis	1
+Steroid-19-Hydroxylase	NAJ13	1
+Androstenedione	Testosterone	1
+Estradiol	Estrone	1
+Progesterone	To Mineralcorticoid Synthesis	1
+Hydroxyprogesterone aldolase	NAJ2	1
+Androstenediol	Testosterone	1

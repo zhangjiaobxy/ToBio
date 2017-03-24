@@ -1,0 +1,50 @@
+Cortisol	11b,17a 21-Trihydroxy-5b	1
+NAJ9	(R)20-hydroxysteroid Dh	1
+NAJ7	Cortisone beta-reductase	1
+3alpha-Hydroxy-5beta-pregnane-20-one	20b-Hydroxysteroid Dh	1
+Cortisone	Cortisol	1
+Urocortisol	Cortisol	1
+NAJ14	Hsd11b1	1
+3-Oxo-5b-Steroid Dh	NAJ6	1
+Cortolone	Glucuronides	1
+Cortisol	Cortisone	1
+Cyp11a1	Pregnenolone	1
+Cyp17a1	17-a-Hydroxyprogesterone	1
+NAJ10	Akr1c21	1
+From Cholersterol Biosynthesis	Cholesterol	1
+NAJ13	3a-Hydroxysteroid Dh	1
+NAJ8	Akr1c21	1
+Cyp11b2	18-Hydroxycorticosterone	1
+NAJ2	Cyp11b2	1
+NAJ3	Cyp11b2	1
+5b-Pregnan-18-al	3a,11b,21-Trihydroxy-20-Oxo-	1
+5b-Pregnane-3,20-dione	Progesterone	1
+17-a-Hydroxyprogesterone	Hsd3b1	1
+11-Deoxycortisol	Cortisol	1
+Cyp17a1	17a-Hydroxypregnenolone	1
+Progesterone	Steroid Hormone	1
+Pregnenolone	Cyp17a1	1
+17-a-Hydroxyprogesterone	11-Deoxycortisol	1
+5b-Pregnane-3,20-dione	3alpha-Hydroxy-5beta-pregnane-20-one	1
+5b-Pregnan-18-al	Glucuronides	1
+17-a-Hydroxyprogesterone	To Androgen Synthesis	1
+Urocortisone	Cortolone	1
+Progesterone	Cyp17a1	1
+Pregnanediol	Glucuronides	1
+Corticosterone	Cyp11b2	1
+Hsd3b1	17a-Hydroxypregnenolone	1
+NAJ5	3a-Hydroxysteroid Dh	1
+Cortisol	Glucuronides	1
+NAJ12	3-Oxo-5b-Steroid Dh	1
+NAJ15	Hsd11b2	1
+Aldosterone	11b, 21-Dihydroxy-3,20-	1
+11-Deoxycorticosterone	Corticosterone	1
+Cyp21a1	NAJ4	1
+Cholesterol	Cyp11a1	1
+20b-Hydroxysteroid Dh	Pregnanediol	1
+17a-Hydroxypregnenolone	To Androgen Synthesis	1
+NAJ1	Cyp21a1	1
+Urocortisone	Glucuronides	1
+NAJ11	(R)20-hydroxysteroid Dh	1
+Hsd3b1	Pregnenolone	1
+Progesterone	Hsd3b1	1

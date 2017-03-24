@@ -1,0 +1,32 @@
+NAI4	Factor VIIIa	1
+Factor VIIa	NAJ3	1
+Factor Xa	Prothrombinase Complex	1
+Plg	Plasmin	1
+Factor XIIIa	Fibrin Polymer	1
+NAI3	Plat	1
+Factor IXa	NAJ3	1
+NAJ3	Factor VIIIa	1
+Factor Va	Prothrombinase Complex	1
+Vwf	NAI4	1
+F9	Factor IXa	1
+Tissue Factor	NAJ7	1
+Serpinf2	Plasmin	1
+Fibrin Monomer	Fibrin Polymer	1
+Factor XIa	NAJ6	1
+F11	Factor XIa	1
+Tissue Injury	Tissue Factor	1
+Plat	Plg	1
+F5	Factor Va	1
+Factor XIIa	NAJ4	1
+F7	Factor VIIa	1
+F2	Thrombin	1
+Thrombin	NAJ5	1
+NAI1	Factor Xa	1
+Fibrin	Fibrin Split Products	1
+F13b	Factor XIIIa	1
+Prothrombinase Complex	NAJ1	1
+Plasmin	NAJ2	1
+Plau	Plg	1
+F12	Factor XIIa	1
+NAI2	Fibrin Monomer	1
+Fibrin Polymer	Fibrin	1

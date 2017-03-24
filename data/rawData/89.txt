@@ -1,0 +1,38 @@
+GMP	NAJ12	1
+NAJ6	Adenine	1
+Srm	NAJ7	1
+Adenylosuccinate	AMP	1
+Nme2	NAJ4	1
+AICAR	IMP	1
+Ribose	PRPP	1
+Adenine	AMP	1
+Adsl	NAJ10	1
+Ornithine	Putrescine	1
+Impdh1	NAJ9	1
+dNTPs	DNA	1
+NDPs	dNDPs	1
+Guanine	Uric acid	1
+PRPP	SAICAR	1
+NAI2	NAJ1	1
+Sat1	NAJ6	1
+AMP	Hypoxanthine	1
+Adenylosuccinate	NDPs	1
+NAI4	NAJ3	1
+NAI3	NAJ11	1
+Xanthine monophosphate	GMP	1
+SAICAR	AICAR	1
+Hprt1	IMP	1
+IMP	Xanthine monophosphate	1
+Hprt1	Guanine	1
+NAI1	NAJ5	1
+GMP	NAJ2	1
+NAJ7	Adenine	1
+Hypoxanthine	Uric acid	1
+dNDPs	dNTPs	1
+Hprt1	GMP	1
+IMP	Adenylosuccinate	1
+Spermidine	Spermine	1
+Oaz1	NAJ8	1
+GMP	Guanine	1
+NAI5	NAJ13	1
+Putrescine	Spermidine	1

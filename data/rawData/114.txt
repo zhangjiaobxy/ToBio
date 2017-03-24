@@ -1,0 +1,92 @@
+Cdc42	Was	1
+NAI15	Actomyosin	1
+NAI13	NAI15	1
+NAI26	Gng12	1
+Baiap2	Wasf2	1
+NAI17	Limk1	1
+NAI13	NAI14	1
+Was	Arpc5	1
+?	NAI16	1
+Fgd1	Cdc42	1
+Arhgef6	NAI12	1
+Gng12	Fgd1	1
+NAI30	Focal adhesion	1
+NAI11	NAI12	1
+Arpc5	NAI23	1
+Baiap2	Enah	1
+PI3K	PIP3	1
+NAI22	NAI12	1
+PIP2	NAI30	1
+Grlf1	Rhoa	1
+NAI16	NAI17	1
+NAI29	Git1	1
+Cdc42	NAI28	1
+Dock1	NAI12	1
+Arhgef1	NAI11	1
+NAI12	Baiap2	1
+Cdc42	Iqgap1	1
+Rhoa	Rock1	1
+Pip4k2a	PIP2	1
+Pfn1	NAI23	1
+NAI20	Arhgef4	1
+NAI6	NAI10	1
+NAI28	Limk1	1
+Diap1	Pfn1	1
+Mylk	Myl1	1
+NAI21	NAI22	1
+NAI29	Focal adhesion	1
+NAI17	Stabilization of actin	1
+Enah	Actin polymerization	1
+Vav1	NAI12	1
+NAI30	Actin polymerization	1
+Slc9a1	Vil1	1
+Cdc42	MAPK Signaling pathway	1
+NAI15	Ppp1r12a	1
+Gsn	PIP2	1
+NAI12	MAPK Signaling pathway	1
+Mylk	NAI28	1
+NAI12	NAI28	1
+PIP2	Vcl	1
+NAI28	NAI11	1
+Tmsb4x	Actin polymerization	1
+Ppp1r12a	NAI13	1
+LPS	F2	1
+Rhoa	Diap1	1
+Itga1	NAI9	1
+Gng12	NAI28	1
+Crk	Dock1	1
+Wasf2	Arpc5	1
+NAI12	Rhoa	1
+Arhgef4	NAI12	1
+Pfn1	Actin polymerization	1
+NAI12	Pip4k2a	1
+Itga1	Csk	1
+NAI13	Slc9a1	1
+NAI11	Cdc42	1
+MAPK Signaling pathway	Gene Expression	1
+RAS	NAI5	1
+Cd14	NAI7	1
+Fn1	Itga1	1
+Braf	Map2k1	1
+Arpc5	NAI19	1
+NAI13	Limk1	1
+NAI21	Arpc5	1
+Arhgef7	Git1	1
+Vcl	Focal complex	1
+NAI28	MAPK Signaling pathway	1
+Arhgef1	Rhoa	1
+Gsn	Stabilization of actin	1
+NAI14	PIP2	1
+F2	NAI4	1
+RAS	PI3K	1
+Diap3	Baiap2	1
+PIP3	Vav1	1
+RAS	Arhgef6	1
+NAI7	Arhgef1	1
+Iqgap1	Adherens junction	1
+Csk	Grlf1	1
+Cdc42	Diap3	1
+NAI12	Iqgap1	1
+Sos2	RAS	1
+NAI10	NAI13	1
+Vil1	Focal adhesion	1

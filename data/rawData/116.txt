@@ -1,0 +1,46 @@
+PAK	Arhgef7	1
+NAI6	NAI5	1
+Ptk2	Bcar1	1
+Pxn	Ptk2	1
+ERK	cell proliferation	1
+Ptk2	MEK	1
+Cdc42	PAK	1
+Rho	NAI1	1
+ITGB	Shc1	1
+Git2	Arhgef7	1
+Rapgef1	NAI2	1
+Crk	Rapgef1	1
+MYO-P	Myo	1
+Tns1	Vcl	1
+Ptk2	Pik3r2	1
+Myo	F-actin	1
+Sorbs1	Vcl	1
+Rac2	cell motility	1
+PAK	Mapk10	1
+ERK	Mylk2	1
+MEK	ERK	1
+Pxn	Bcar1	1
+Sos1	Hras1	1
+NAI2	Mapk10	1
+ITGB	NAI3	1
+Mylk2	Myo	1
+Tln1	Ptk2	1
+Zyx	Vasp	1
+NAI6	NAI7	1
+Grb2	Sos1	1
+NAI1	MYO-P	1
+Tln1	Capns1	1
+ITGB	Actn1	1
+Src	Ptk2	1
+Mapk10	cell maintenance	1
+ITGB	Tln1	1
+PI5K	NAI7	1
+Bcar1	Crk	1
+CAPN	Src	1
+Hras1	RAF	1
+Pxn	Git2	1
+Rho	PI5K	1
+Pdpk1	NAI5	1
+RAF	MEK	1
+NAI5	cell maintenance	1
+Rac2	PAK	1

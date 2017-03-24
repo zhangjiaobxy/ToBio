@@ -1,0 +1,51 @@
+Tnf	Tgfb1	1
+Smad7 	Collagen production	1
+Tgfb1	Smad7	1
+transition 	MAPK	1
+Tgfb1	NAI15	1
+Pdgfb 	Ccl4	1
+Il1b	Pdgfb	1
+SERPINA1	NAI29	1
+Il1b	Cma1	1
+collagen production	ROS	1
+Pdgfb 	Pdgfa	1
+Cebpb	NAI31	1
+Plau	Hgf	1
+NF-KB	Tnf	1
+collagen production	Epithelial injury and	1
+inflammasome activation	NADPH	1
+collagen production	p38 MAPK	1
+Skil 	Il12b	1
+Tgfb1	Ccl3	1
+extracellular matrix (ECM)	Pulmonary fibrosis	1
+NF-KB	MAPK	1
+inflammasome activation	Inflammasome	1
+SERPINA1	NAI14	1
+Ccl5	Ccl2	1
+production	p38 MAPK	1
+Spp1	Igf1	1
+activation	Il1b	1
+Il1b	Collagen production	1
+Tgfb1	NAI32	1
+Cebpb	Fam13a	1
+p38 MAPK	Tgfb1	1
+oxidase	ROS	1
+Mt2	NAI4	1
+inflammasome activation	ROS	1
+production	Inflammasome	1
+SERPINA1	Ccr2	1
+Pdgfb 	Parn	1
+Collagen production	Excess deposition and/or reduced turnover of	1
+Parn	NAI19	1
+inflammasome activation	NF-KB	1
+Dsp	Hgf	1
+Il1b	Tgfb1	1
+Cebpb	NAI28	1
+Tgfa	NAI22	1
+NAI9	NAI14	1
+NAI12	NAJ1	1
+Smad7 	Mt2	1
+transition 	NF-KB	1
+Ccl2 	Apoptosis	1
+transition 	Inflammasome	1
+Ptx3	Fgf2	1

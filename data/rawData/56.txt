@@ -1,0 +1,39 @@
+Mapk14	Stat1	1
+Rps6ka5	Creb1	1
+Mapk14	Pla2g4a	1
+Mapk14	Mef2d	1
+Map3k5	Apoptosis	1
+Mapk14	Elk1	1
+NAI4	DNA transcription	1
+Map3k7	Map2k6	1
+DNA transcription	Cytokines Production,	1
+Trophic Factors, etc.	NAI1	1
+Map3k5	Map2k6	1
+Mapkapk5	Hspb1	1
+Map2k6	Mapk14	1
+g-radiation, Anisomycin	Rac1	1
+Mapk14	Mapkapk5	1
+Tgfb2	Tgfbr1	1
+Hras1	Rac1	1
+Map3k1	Map2k4	1
+Map3k9	Map2k6	1
+Rac1	Map3k1	1
+Mapk14	Atf2	1
+Mapk14	Rps6ka5	1
+NAI2	Map3k5	1
+Mapkapk2	Creb1	1
+Mapkapk2	Hspb1	1
+Rps6ka5	Hmgn1	1
+Cdc42	Map3k9	1
+Mapk14	NAI3	1
+Mknk1	Translation	1
+Mapk14	Mknk1	1
+NAI1	Hras1	1
+Tgfbr1	Map3k7	1
+g-radiation, Anisomycin	Cdc42	1
+Rac1	Map3k9	1
+Cytokines, UV, etc.	NAI2	1
+Map3k9	Map2k4	1
+Map2k4	Mapk14	1
+Mapk14	Ddit3	1
+Mapk14	Mapkapk2	1

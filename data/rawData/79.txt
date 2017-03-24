@@ -1,0 +1,18 @@
+Hmgcs2	NAJ6	1
+Acetoacetate	Acetoacetyl-CoA	1
+Acetyl-CoA	NAJ6	1
+Acetoacetyl-CoA	3-Hydroxy-3-methylglutaryl-CoA	1
+Acetoacetate	3-Hydroxy-butyrate	1
+Glycolysis	Acetyl-CoA	1
+Oxct1	NAJ8	1
+Hmgcl	NAJ3	1
+Fatty acid beta-oxidation	Acetyl-CoA	1
+Hmgcl	NAJ4	1
+Bdh1	NAJ1	1
+Acetoacetyl-CoA	Acetyl-CoA	1
+Sterol biosynthesis	3-Hydroxy-3-methylglutaryl-CoA	1
+Pyruvate metabolism	Acetoacetyl-CoA	1
+3-Hydroxy-3-methylglutaryl-CoA	Acetoacetate	1
+Acat1	NAJ7	1
+Acetoacetyl-CoA	Fatty acid metabolism	1
+3-Hydroxy-3-methylglutaryl-CoA	Acetyl-CoA	1

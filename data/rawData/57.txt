@@ -1,0 +1,11 @@
+Ptgdr	Gq/G11 Pathway	1
+Ptgfr	Gq/G11 Pathway	1
+Ptafr	Gq/G11 Pathway	1
+Tbxa2r	Gq/G11 Pathway	1
+Mtnr1b	Gi Pathway	1
+Ptger4	Gq/G11 Pathway	1
+Ptger3	Gi Pathway	1
+Cnr1	Gi Pathway	1
+Mtnr1a	Gi Pathway	1
+Ptger2	Gq/G11 Pathway	1
+Melatonin	NAI1	1

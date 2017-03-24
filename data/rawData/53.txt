@@ -1,0 +1,39 @@
+Ltc4s	NAJ9	1
+PGD2 11-ketoreduc	NAJ15	1
+Alox8	NAJ12	1
+Leukotriene A4	Leukotriene C4	1
+12-Hydroperoxy Eicosatetraenoic Acid	12-HETE	1
+Prostaglandin H2	Thromboxane A2	1
+15-Hydroperoxy Eicosatetraenoic Acid	15-HETE	1
+Leukotriene A4	Leukotriene B4	1
+Prostaglandin I2	6-Keto-Prostaglandin F2-alpha	1
+Peroxidase?	NAJ13	1
+Leukotriene D4	Leukotriene E4	1
+PGE2 9-ketoreduc	NAJ3	1
+NAI4	NAJ6	1
+Thromboxane A2	Thromboxane B2	1
+Lta4h	NAJ8	1
+Arachidonic acid	5-HPETE	1
+Prostaglandin E2	Prostaglandin F2a	1
+Prostaglandin D2	Prostaglandin F2a	1
+Prostaglandin H2	Prostaglandin D2	1
+Prostaglandin H2	Prostaglandin I2	1
+Ptgis	NAJ17	1
+Peroxidase?	NAJ7	1
+Prostaglandin H2	Prostaglandin E2	1
+Leukotriene C4	Leukotriene D4	1
+Arachidonic acid	12-Hydroperoxy Eicosatetraenoic Acid	1
+Thromboxane A2	Thromboxane A3	1
+Arachidonic acid	Prostaglandin H2	1
+5-HPETE	Leukotriene A4	1
+NAI6	NAJ5	1
+Arachidonic acid	15-Hydroperoxy Eicosatetraenoic Acid	1
+Ptgds	NAJ2	1
+Ggt1	NAJ10	1
+Peroxidase?	NAJ14	1
+Cell Membrane	Arachidonic acid	1
+5-HPETE	5-HETE	1
+Dpep1	NAJ11	1
+NAI5	NAJ16	1
+NAI3	NAJ1	1
+Tbxas1	NAJ4	1

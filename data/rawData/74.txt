@@ -1,0 +1,32 @@
+Histone	NAI1	1
+5,10-Methenyl Tetrahydrofolate	AMT	1
+BHMT	Homocysteine	1
+FTCD	5,10-Methenyl Tetrahydrofolate	1
+FOLH1	Monoglutamate	1
+NAI1	Methylated histone	1
+NAI5	5,10-Methenyl Tetrahydrofolate	1
+FTCD	5-Formiminotetrahydrofolic acid	1
+Ethanol	Monoglutamate	1
+5,10-Methylene Tetrahydrofolate	TYMS	1
+10-Formyl Tetrahydrofolate	NAI5	1
+NAI6	10-Formyl Tetrahydrofolate	1
+Betaine	BHMT	1
+DHFR	Dihydrofolate	1
+5,10-Methenyl Tetrahydrofolate	GART	1
+DNA	DNA 5-methylcytosine	1
+Tetrahydrofolate	NAI6	1
+DHFR	Tetrahydrofolate	1
+AMT	5-Formyltetrahydrofolate	1
+Deoxythymidine monofosfaat	Thymidylate Synthesis and DNA repair	1
+GART	Tetrahydrofolate	1
+Deoxyuridine monofosfaat	TYMS	1
+Monoglutamate	DHFR	1
+Dihydrofolate	DHFR	1
+Polyglutamate	FOLH1	1
+MTHFS	5,10-Methenyl Tetrahydrofolate	1
+TYMS	Deoxythymidine monofosfaat	1
+TYMS	Dihydrofolate	1
+5,10-Methenyl Tetrahydrofolate	NAI2	1
+5-Formyltetrahydrofolate	MTHFS	1
+Tetrahydrofolate	FTCD	1
+5-Formiminotetrahydrofolic acid	FTCD	1

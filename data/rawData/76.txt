@@ -1,0 +1,15 @@
+NAI2	Cd28	1
+B-cell	Il4ra	1
+B-cell	Il5ra	1
+B-cell	NAI1	1
+Cd40	TH-cell	1
+NAI9	NAI3	1
+NAI9	Col3a1	1
+B-cell	Cd40lg	1
+Cd28	TH-cell	1
+Cd40lg	Cd40	1
+B-cell	NAI2	1
+TH-cell	NAI8	1
+NAI9	NAI4	1
+TH-cell	NAI5	1
+TH-cell	NAI6	1

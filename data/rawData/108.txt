@@ -1,0 +1,74 @@
+NAJ6	Pip2	1
+NAJ5	NAI16	1
+Crhr1	NAJ3	1
+NAJ8	ATP	1
+Calcium Influx	PKC	1
+Cyclic AMP	PKA	1
+Ca2+	Calcium Influx	1
+NAJ2	Gbg	1
+Crcp	NAJ15	1
+Adm	NAI2	1
+NAI4	Cyclic AMP	1
+IP3	IP3 Receptor	1
+beta Arrestin	NAJ16	1
+MAPK	Cald1	1
+Cyclic AMP	Myometrial Relaxation	1
+Adenylyl Cyclases	Cyclic AMP	1
+Myl4	Myometrial Contraction	1
+NAI10	NAJ8	1
+Lpar1	Cyclic AMP	1
+Pip2	DAG	1
+Cacnb3	NAJ13	1
+NAJ1	Lpar1	1
+IP3 Receptor	Calcium Mobilization	1
+Ets complex	NAJ5	1
+PKC	MAPK	1
+NAJ15	Gbg	1
+Oxt	Oxtr	1
+Slc8a1	NAJ12	1
+NAJ8	ADP	1
+NAI5	NO	1
+NAI12	NAJ10	1
+NAJ4	NAI15	1
+ATP	NAJ7	1
+Slc8a1	NAJ11	1
+Predicted OT-R	NAJ4	1
+Ca++/Calmodulin	Camk2	1
+DAG	PKC	1
+Ca++/Calmodulin	Mylk2	1
+Mylk2	NAI13	1
+Rxfp2	NAJ15	1
+NAI6	NAJ2	1
+LPA	Lpar1	1
+Gnaq	Phospholipase-C	1
+Cyclic AMP	Gucy1a3	1
+Dgkz	DAG	1
+NO	Myometrial Relaxation	1
+Rln1	NAI1	1
+NAI3	Gucy2e	1
+NAJ7	ADP	1
+Crh	Crhr1	1
+Camk2	NAJ14	1
+PKA	Mylk2	1
+Cyclic GMP	Myometrial Relaxation	1
+Calcium Mobilization	Ca++/Calmodulin	1
+Pge2	NAI4	1
+Oxtr	Gnaq	1
+Calca	Crcp	1
+NAI1	IGFBP	1
+Crhr1	NAJ15	1
+Corin	Gucy2e	1
+PKC	NAI10	1
+Cald1	NAJ9	1
+Gucy1a3	Cyclic GMP	1
+Phospholipase-C	IP3	1
+IGFBP	Cell Growth	1
+Calcium Mobilization	PKC	1
+PKA	Transcriptional	1
+RGS	Gnaq	1
+NAI8	Calcium Mobilization	1
+PKC inhibitor 1	PKC	1
+Gucy2e	Cyclic GMP	1
+Gnas	Adenylyl Cyclases	1
+Cyclic AMP	Gucy2e	1
+Cxcr7	NAJ15	1

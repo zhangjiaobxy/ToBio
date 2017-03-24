@@ -1,0 +1,394 @@
+mmu:171567 mmu:18102 mmu:18103 mmu:54369 mmu:56520 mmu:75533 mmu:79059	NAJ30	1
+Ppat	NAJ5	1
+Entpd2	NAJ215	1
+ko:K04765	NAJ26	1
+cpd:C00294	Hypoxanthine	1
+Hprt	NAJ70	1
+Entpd2	NAJ22	1
+cpd:C00212	cpd:C00294	1
+P1,P3-Bis(5'-adenosyl) triphosphate	ADP	1
+mmu:18950 mmu:667034	NAJ61	1
+Atic	NAJ9	1
+ko:K10213	NAJ230	1
+Nudt5	NAJ141	1
+Paics	NAJ11	1
+ec:3.2.2.7	NAJ245	1
+1190003J15Rik	NAJ78	1
+mmu:12495 mmu:215446 mmu:72090	NAJ154	1
+mmu:23971 mmu:23972	NAJ95	1
+Hprt	NAJ66	1
+Adenosine tetraphosphate	ATP	1
+ec:4.1.1.-	NAJ228	1
+ec:3.6.1.21	NAJ220	1
+Pfas	NAJ100	1
+Gart	NAJ6	1
+mmu:18950 mmu:667034	NAJ73	1
+Ntpcr	NAJ24	1
+NH3	Urea cycle and metabolism of amino groups	1
+IDP	ITP	1
+Guanosine 3'-diphosphate 5'-triphosphate	Guanosine 3',5'-bis(diphosphate)	1
+cpd:C12248	(S)(+)-Allantoin	1
+Atic	NAJ139	1
+Prune	NAJ80	1
+GTP	GMP	1
+mmu:12495 mmu:215446 mmu:72090	NAJ25	1
+ko:K01553	NAJ28	1
+Ada	NAJ44	1
+Adenine	Deoxyadenosine	1
+ko:K01239	NAJ204	1
+ADP-ribose	alpha-D-Ribose 1-phosphate	1
+ko:K00951 ko:K07816	NAJ191	1
+ko:K01524	NAJ188	1
+1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	Aminoimidazole ribotide	1
+GMP	IMP	1
+Glyoxylate	Glyoxylate and dicarboxylate metabolism	1
+3'-AMP	cpd:C00212	1
+mmu:18950 mmu:667034	NAJ64	1
+GTP	Guanosine 3'-diphosphate 5'-triphosphate	1
+Entpd2	NAJ156	1
+ko:K00769 ko:K03816	NAJ201	1
+mmu:171567 mmu:18102 mmu:18103 mmu:54369 mmu:56520 mmu:75533 mmu:79059	NAJ83	1
+ko:K01553	NAJ157	1
+ko:K04765	NAJ101	1
+mmu:12495 mmu:215446 mmu:72090	NAJ213	1
+mmu:20133 mmu:20135 mmu:382985	NAJ1	1
+ko:K00527	NAJ190	1
+Xanthosine 5'-phosphate	cpd:C01762	1
+dADP	dATP	1
+AMP	NH3	1
+cpd:C01762	cpd:C00385	1
+mmu:14917 mmu:14918 mmu:14919 mmu:18160 mmu:230103 mmu:234889 mmu:239134 mmu:245650 mmu:54195 mmu:60596	NAJ120	1
+Adsl	NAJ10	1
+Pnpt1	NAJ81	1
+cpd:C00387	Guanine	1
+mmu:171567 mmu:18102 mmu:18103 mmu:54369 mmu:56520 mmu:75533 mmu:79059	NAJ116	1
+ATP	ADP	1
+mmu:105446 mmu:66355	NAJ54	1
+ec:6.3.4.7	NAJ148	1
+ko:K03815	NAJ46	1
+mmu:18950 mmu:667034	NAJ202	1
+cpd:C15667	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	1
+GTP	GDP	1
+Hypoxanthine	cpd:C00385	1
+dGMP	dGDP	1
+AMP	Adenine	1
+mmu:100042069 mmu:23917 mmu:23918	NAJ55	1
+ko:K00988	NAJ184	1
+cpd:C00385	Xanthosine 5'-phosphate	1
+ATP	AMP	1
+mmu:18950 mmu:667034	NAJ45	1
+ko:K01936	NAJ170	1
+ko:K01119	NAJ209	1
+mmu:18968 mmu:18969 mmu:18971 mmu:18972 mmu:18973 mmu:18974 mmu:19075 mmu:19076 mmu:59001 mmu:66979 mmu:67967 mmu:69745	NAJ92	1
+ec:2.1.3.5	NAJ147	1
+ko:K10213	NAJ167	1
+GTP	P1,P4-Bis(5'-guanosyl) tetraphosphate	1
+ec:3.6.1.14	NAJ225	1
+1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	1
+ADP	P1,P4-Bis(5'-adenosyl) tetraphosphate	1
+GDP	GTP	1
+mmu:18746 mmu:18770	NAJ132	1
+P1,P4-Bis(5'-adenosyl) tetraphosphate	ADP	1
+GMP	cpd:C00387	1
+Gmps	NAJ171	1
+Itpa	NAJ198	1
+NAJ75	(-)-Ureidoglycolate	1
+mmu:11636 mmu:11637 mmu:11639 mmu:229949 mmu:78801	NAJ34	1
+mmu:18746 mmu:18770	NAJ131	1
+ko:K01119	NAJ211	1
+ko:K10213	NAJ205	1
+Aprt	NAJ222	1
+Adenylyl sulfate	3'-Phosphoadenylyl sulfate	1
+mmu:23971 mmu:23972	NAJ94	1
+ko:K04765	NAJ214	1
+dITP	2'-Deoxyinosine 5'-phosphate	1
+2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	Aminoimidazole ribotide	1
+ko:K14977	NAJ145	1
+(-)-Ureidoglycolate	NH3	1
+mmu:12495 mmu:215446 mmu:72090	NAJ128	1
+ko:K00769 ko:K03816	NAJ125	1
+(S)(+)-Allantoin	Allantoate	1
+ATP	3',5'-Cyclic AMP	1
+Xdh	NAJ62	1
+Itpa	NAJ102	1
+ko:K11176	NAJ138	1
+mmu:11636 mmu:11637 mmu:11639 mmu:229949 mmu:78801	NAJ115	1
+ko:K00527	NAJ153	1
+ec:2.4.2.15	NAJ203	1
+cpd:C06433	AMP	1
+ec:3.5.3.-	NAJ227	1
+cpd:C02091	(-)-Ureidoglycolate	1
+mmu:18605 mmu:209558	NAJ97	1
+mmu:20133 mmu:20135 mmu:382985	NAJ32	1
+Nudt2	NAJ107	1
+ec:3.2.2.12	NAJ172	1
+dAMP	dADP	1
+ko:K01241	NAJ161	1
+mmu:18950 mmu:667034	NAJ113	1
+mmu:12495 mmu:215446 mmu:72090	NAJ133	1
+Adenine	Hypoxanthine	1
+dGTP	DNA	1
+ko:K00926	NAJ249	1
+AMP	ADP	1
+3',5'-Cyclic GMP	GMP	1
+mmu:12495 mmu:215446 mmu:72090	NAJ33	1
+ADP-ribose	D-Ribose 5-phosphate	1
+Ada	NAJ49	1
+mmu:110385 mmu:110855 mmu:18573 mmu:18574 mmu:18575 mmu:18576 mmu:18577 mmu:18578 mmu:18582 mmu:18583 mmu:18584 mmu:18585 mmu:18587 mmu:18588 mmu:207728 mmu:218461 mmu:225600 mmu:238871 mmu:23984 mmu:241489 mmu:242202 mmu:29863 mmu:54611 mmu:78600	NAJ93	1
+ec:3.5.2.-	NAJ229	1
+3'-Phosphoadenylyl sulfate	Adenosine 3',5'-bisphosphate	1
+NAJ181	CO2	1
+dIDP	dITP	1
+mmu:171567 mmu:18102 mmu:18103 mmu:54369 mmu:56520 mmu:75533 mmu:79059	NAJ85	1
+ko:K13293 ko:K13294	NAJ14	1
+5-Ureido-4-imidazole carboxylate	5-Amino-4-imidazole carboxylate	1
+Hprt	NAJ60	1
+ec:3.2.2.2	NAJ174	1
+P1,P4-Bis(5'-xanthosyl) tetraphosphate	XTP	1
+ko:K01839	NAJ144	1
+(-)-Ureidoglycolate	Urea	1
+5-Aminoimidazole	Imidazolone	1
+mmu:100043714 mmu:100046796 mmu:20016 mmu:20017 mmu:20018 mmu:20019 mmu:20020 mmu:20021 mmu:20022 mmu:218832 mmu:231329 mmu:245841 mmu:26939 mmu:625405 mmu:64424 mmu:66136 mmu:66420 mmu:66491 mmu:67005 mmu:67065 mmu:67486 mmu:67710 mmu:69241 mmu:69833 mmu:69870 mmu:69920 mmu:70408 mmu:70428 mmu:74414 mmu:78929	NAJ17	1
+ec:2.1.2.4	NAJ193	1
+ec:2.4.2.15	NAJ233	1
+Sulfate	Adenylyl sulfate	1
+ec:3.5.2.-	NAJ226	1
+mmu:14917 mmu:14918 mmu:14919 mmu:18160 mmu:230103 mmu:234889 mmu:239134 mmu:245650 mmu:54195 mmu:60596	NAJ91	1
+ko:K01239	NAJ163	1
+ko:K01239	NAJ236	1
+Deoxyguanosine	Guanine	1
+mmu:100043714 mmu:100046796 mmu:20016 mmu:20017 mmu:20018 mmu:20019 mmu:20020 mmu:20021 mmu:20022 mmu:218832 mmu:231329 mmu:245841 mmu:26939 mmu:625405 mmu:64424 mmu:66136 mmu:66420 mmu:66491 mmu:67005 mmu:67065 mmu:67486 mmu:67710 mmu:69241 mmu:69833 mmu:69870 mmu:69920 mmu:70408 mmu:70428 mmu:74414 mmu:78929	NAJ89	1
+mmu:12495 mmu:215446 mmu:72090	NAJ82	1
+dGTP	Deoxyguanosine	1
+ko:K00769 ko:K03816	NAJ71	1
+Dck	NAJ130	1
+Uox	NAJ77	1
+Dck	NAJ41	1
+IMP	N6-(1,2-Dicarboxyethyl)-AMP	1
+cpd:C00385	Urate	1
+Guk1	NAJ84	1
+mmu:103850 mmu:107569 mmu:230718 mmu:23959 mmu:50773 mmu:70881 mmu:76952	NAJ43	1
+Nudt2	NAJ106	1
+ko:K02083	NAJ146	1
+Adk	NAJ129	1
+GDP	dGDP	1
+Aprt	NAJ126	1
+dGDP	dGTP	1
+mmu:103850 mmu:107569 mmu:230718 mmu:23959 mmu:50773 mmu:70881 mmu:76952	NAJ39	1
+RNA	GDP	1
+Deoxyadenosine	cpd:C05512	1
+mmu:110639 mmu:19139 mmu:328099 mmu:75456	NAJ3	1
+Allantoate	Urea	1
+D-Ribose 5-phosphate	5-Phospho-alpha-D-ribose 1-diphosphate	1
+ko:K06863	NAJ246	1
+mmu:18950 mmu:667034	NAJ47	1
+ko:K01553	NAJ136	1
+Ntpcr	NAJ137	1
+ko:K00892	NAJ162	1
+ko:K01525	NAJ194	1
+Ntpcr	NAJ29	1
+ko:K03815	NAJ250	1
+Urate	cpd:C11821	1
+dATP	DNA	1
+ko:K04765	NAJ199	1
+AMP	cpd:C00212	1
+ec:2.4.2.16	NAJ180	1
+Glycine, serine and threonine metabolism	Glycine	1
+ko:K01139	NAJ187	1
+ec:3.2.2.7	NAJ168	1
+mmu:18746 mmu:18770	NAJ121	1
+Adenylyl sulfate	P1,P4-Bis(5'-adenosyl) tetraphosphate	1
+Aprt	NAJ69	1
+1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	cpd:C04051	1
+cpd:C06194	Guanosine 3'-phosphate	1
+Ntpcr	NAJ217	1
+ec:5.1.99.3	NAJ183	1
+ko:K13293 ko:K13294	NAJ254	1
+ko:K04765	NAJ134	1
+mmu:104110 mmu:104111 mmu:11512 mmu:11513 mmu:11514 mmu:11515 mmu:210044 mmu:224129 mmu:271639 mmu:432530	NAJ119	1
+Prhoxnb	NAJ142	1
+5'-Butyrylphosphoinosine	IMP	1
+mmu:11636 mmu:11637 mmu:11639 mmu:229949 mmu:78801	NAJ160	1
+ko:K01239	NAJ243	1
+mmu:100043714 mmu:100046796 mmu:20016 mmu:20017 mmu:20018 mmu:20019 mmu:20020 mmu:20021 mmu:20022 mmu:218832 mmu:231329 mmu:245841 mmu:26939 mmu:625405 mmu:64424 mmu:66136 mmu:66420 mmu:66491 mmu:67005 mmu:67065 mmu:67486 mmu:67710 mmu:69241 mmu:69833 mmu:69870 mmu:69920 mmu:70408 mmu:70428 mmu:74414 mmu:78929	NAJ151	1
+5-Amino-4-imidazole carboxylate	5-Aminoimidazole	1
+mmu:18968 mmu:18969 mmu:18971 mmu:18972 mmu:18973 mmu:18974 mmu:19075 mmu:19076 mmu:59001 mmu:66979 mmu:67967 mmu:69745	NAJ19	1
+Deoxyadenosine	dAMP	1
+mmu:103850 mmu:107569 mmu:230718 mmu:23959 mmu:50773 mmu:70881 mmu:76952	NAJ68	1
+Urate-3-ribonucleoside	Urate	1
+ko:K08693	NAJ207	1
+mmu:12497 mmu:12499 mmu:67464 mmu:76025	NAJ59	1
+Entpd2	NAJ135	1
+Dguok	NAJ108	1
+ec:3.6.1.20	NAJ239	1
+Itpa	NAJ105	1
+Paics	NAJ12	1
+Xdh	NAJ98	1
+ko:K11176	NAJ149	1
+ko:K01239	NAJ231	1
+dGMP	Deoxyguanosine	1
+mmu:171567 mmu:18102 mmu:18103 mmu:54369 mmu:56520 mmu:75533 mmu:79059	NAJ52	1
+5-Phospho-alpha-D-ribose 1-diphosphate	Pentose phosphate pathway	1
+Acetyl adenylate	AMP	1
+5'-Phosphoribosylglycinamide	5'-Phosphoribosyl-N-formylglycinamide	1
+D-Ribose 5-phosphate	5-Phosphoribosylamine	1
+ko:K04765	NAJ212	1
+ko:K01239	NAJ166	1
+ec:3.5.4.8	NAJ192	1
+ko:K04765	NAJ195	1
+Hprt	NAJ124	1
+ko:K01553	NAJ23	1
+1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole	1
+Riboflavin metabolism	GTP	1
+ATP	RNA	1
+NAJ185	CO2	1
+mmu:12495 mmu:215446 mmu:72090	NAJ58	1
+GDP	GMP	1
+Guanosine 3'-phosphate	cpd:C00387	1
+ec:2.4.2.15	NAJ88	1
+ko:K10213	NAJ235	1
+Entpd2	NAJ27	1
+ko:K01524	NAJ79	1
+ko:K08693	NAJ208	1
+Guanine	GMP	1
+NAJ96	Sulfate	1
+mmu:109674 mmu:11717 mmu:229665	NAJ38	1
+mmu:18746 mmu:18770	NAJ122	1
+mmu:103850 mmu:107569 mmu:230718 mmu:23959 mmu:50773 mmu:70881 mmu:76952	NAJ48	1
+ec:2.7.4.11	NAJ159	1
+Guanine	cpd:C00385	1
+Aprt	NAJ42	1
+ATP	dATP	1
+(S)(+)-Allantoin	(R)(-)-Allantoin	1
+Guanosine 3',5'-bis(diphosphate)	GDP	1
+ko:K01483	NAJ186	1
+ko:K01239	NAJ247	1
+ADP	AMP	1
+cpd:C00212	AMP	1
+Gart	NAJ8	1
+mmu:12497 mmu:12499 mmu:67464 mmu:76025	NAJ127	1
+ko:K01839	NAJ219	1
+cpd:C00294	IMP	1
+mmu:110385 mmu:18573 mmu:18574 mmu:18575 mmu:18576 mmu:18577 mmu:18578 mmu:18583 mmu:18584 mmu:207728 mmu:218461 mmu:238871 mmu:23984 mmu:241489 mmu:29863 mmu:54611	NAJ15	1
+mmu:18950 mmu:667034	NAJ87	1
+mmu:104110 mmu:104111 mmu:11512 mmu:11513 mmu:11514 mmu:11515 mmu:210044 mmu:224129 mmu:271639 mmu:432530	NAJ90	1
+ko:K10213	NAJ175	1
+ec:3.2.2.2	NAJ164	1
+ko:K01588	NAJ253	1
+mmu:103850 mmu:107569 mmu:230718 mmu:23959 mmu:50773 mmu:70881 mmu:76952	NAJ63	1
+Atic	NAJ150	1
+ko:K00892	NAJ176	1
+mmu:12495 mmu:215446 mmu:72090	NAJ51	1
+ko:K01239	NAJ240	1
+ADP	dADP	1
+Nudt5	NAJ112	1
+cpd:C11821	cpd:C12248	1
+ec:3.6.1.20	NAJ238	1
+mmu:12495 mmu:215446 mmu:72090	NAJ20	1
+ko:K10353	NAJ221	1
+dATP	dADP	1
+ec:3.2.2.2	NAJ241	1
+5-Phosphoribosylamine	5'-Phosphoribosylglycinamide	1
+Allc	NAJ76	1
+mmu:66681 mmu:72157	NAJ218	1
+N6-(1,2-Dicarboxyethyl)-AMP	AMP	1
+cpd:C03614	ITP	1
+mmu:110385 mmu:18573 mmu:18574 mmu:18575 mmu:18576 mmu:18577 mmu:18578 mmu:18583 mmu:18584 mmu:207728 mmu:218461 mmu:238871 mmu:23984 mmu:241489 mmu:29863 mmu:54611	NAJ255	1
+ITP	IMP	1
+dAMP	Deoxyadenosine	1
+Itpa	NAJ117	1
+GTP	RNA	1
+GTP	dGTP	1
+5'-Phosphoribosyl-N-formylglycinamide	2-(Formamido)-N1-(5'-phosphoribosyl)acetamidine	1
+Adk	NAJ40	1
+mmu:66681 mmu:72157	NAJ143	1
+ec:3.6.1.20	NAJ237	1
+ec:3.6.1.14	NAJ197	1
+ko:K01129	NAJ210	1
+Deoxyguanosine	dGMP	1
+Itpa	NAJ109	1
+Ntpcr	NAJ158	1
+Gart	NAJ7	1
+Aprt	NAJ123	1
+Prune	NAJ189	1
+ko:K04765	NAJ104	1
+Xdh	NAJ99	1
+Itpa	NAJ196	1
+Xanthosine 5'-phosphate	GMP	1
+mmu:12497 mmu:12499 mmu:67464 mmu:76025	NAJ57	1
+cpd:C05512	Hypoxanthine	1
+NAJ37	IMP	1
+ko:K10213	NAJ244	1
+ec:3.2.2.7	NAJ206	1
+cpd:C00169	NH3	1
+Folate biosynthesis	GTP	1
+IMP	Xanthosine 5'-phosphate	1
+ec:2.7.4.11	NAJ114	1
+ko:K01239	NAJ173	1
+IMP	Hypoxanthine	1
+cpd:C02353	3'-AMP	1
+Fhit	NAJ118	1
+dGTP	dGMP	1
+mmu:12495 mmu:215446 mmu:72090	NAJ53	1
+mmu:18950 mmu:667034	NAJ232	1
+ko:K10213	NAJ165	1
+3',5'-Cyclic AMP	AMP	1
+mmu:171567 mmu:18102 mmu:18103 mmu:54369 mmu:56520 mmu:75533 mmu:79059	NAJ31	1
+N-Formiminoglycine	Glycine	1
+ko:K00985	NAJ18	1
+IMP	cpd:C00294	1
+Gda	NAJ74	1
+cpd:C00212	Adenine	1
+ko:K00988	NAJ234	1
+ko:K01589	NAJ252	1
+ko:K01553	NAJ216	1
+ko:K04765	NAJ21	1
+P1,P4-Bis(5'-adenosyl) tetraphosphate	ATP	1
+ko:K01486	NAJ169	1
+ko:K10213	NAJ242	1
+mmu:104110 mmu:104111 mmu:11512 mmu:11513 mmu:11514 mmu:11515 mmu:210044 mmu:224129 mmu:271639 mmu:432530	NAJ16	1
+Hprt	NAJ223	1
+ko:K00769 ko:K03816	NAJ67	1
+ec:2.4.2.15	NAJ65	1
+Guk1	NAJ72	1
+mmu:53893 mmu:66358 mmu:74167	NAJ111	1
+Hprt	NAJ200	1
+Imidazolone	N-Formiminoglycine	1
+5-Phospho-alpha-D-ribose 1-diphosphate	NAJ4	1
+Xdh	NAJ2	1
+Pnpt1	NAJ13	1
+ko:K00769 ko:K03816	NAJ224	1
+L-Glutamine	5-Phosphoribosylamine	1
+Itpa	NAJ103	1
+5-Phosphoribosylamine	Alanine, aspartate and glutamate metabolism	1
+IDP	IMP	1
+ko:K01427 ko:K01428 ko:K01429 ko:K01430 ko:K14048	NAJ182	1
+Adsl	NAJ35	1
+NAJ177	Glyoxylate	1
+mmu:103850 mmu:107569 mmu:230718 mmu:23959 mmu:50773 mmu:70881 mmu:76952	NAJ86	1
+ko:K04765	NAJ155	1
+mmu:18950 mmu:667034	NAJ251	1
+1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	IMP	1
+1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	Histidine metabolism	1
+NAJ248	CO2	1
+mmu:53893 mmu:66358 mmu:74167	NAJ140	1
+RNA	ADP	1
+ec:4.3.2.3	NAJ178	1
+Nudt2	NAJ110	1
+cpd:C00385	5-Ureido-4-imidazole carboxylate	1
+ADP	ATP	1
+mmu:11565 mmu:11566	NAJ36	1
+XTP	Xanthosine 5'-phosphate	1
+GMP	GDP	1
+mmu:12495 mmu:215446 mmu:72090	NAJ56	1
+Urea	NH3	1
+mmu:12497 mmu:12499 mmu:67464 mmu:76025	NAJ50	1
+ko:K01466	NAJ179	1
+Allantoate	cpd:C02091	1
+Aminoimidazole ribotide	Thiamine metabolism	1
+GTP	3',5'-Cyclic GMP	1
+1-(5'-Phosphoribosyl)-5-amino-4-imidazolecarboxamide	1-(5'-Phosphoribosyl)-5-formamido-4-imidazolecarboxamide	1
+alpha-D-Ribose 1-phosphate	D-Ribose 5-phosphate	1
+Aminoimidazole ribotide	cpd:C15667	1
+ko:K00985	NAJ152	1
+Oxalureate	cpd:C00169	1

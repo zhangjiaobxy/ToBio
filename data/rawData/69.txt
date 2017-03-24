@@ -1,0 +1,11 @@
+Ace	NAJ3	1
+Angiotensin I	Angiotensin II	1
+Angiotensin II	Group object	1
+ACE Inhibitor	Ace	1
+Agt	Angiotensin I	1
+Ren1	NAJ1	1
+Ace	NAJ2	1
+Kng1	Bradykinin	1
+Group object	Aldosterone	1
+Bdkrb2	Nos3	1
+Bradykinin	Bdkrb2	1

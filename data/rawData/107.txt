@@ -1,0 +1,21 @@
+L-Tyrosine	L-DOPA	1
+Uchl1	NAJ7	1
+ROS	Apoptosis Pathway	1
+NAI7	Casp3	1
+NAI4	Apoptosis Pathway	1
+mmu-mir-195a	Ccne1	1
+Th	NAJ1	1
+Cycs 	Cycs	1
+Lrrk2	MAPK Signaling	1
+Ubiquitin pathway components	Targets for Ub degradation	1
+L-DOPA	Dopamine	1
+mmu-mir-26b	Park2	1
+NAI6	Ccne2	1
+Snca	NAJ3	1
+Pink1	NAJ4	1
+Lrrk2	WNT Signaling	1
+Dopamine	ROS	1
+NAI3	NAI4	1
+Ddc	NAJ2	1
+Park2	NAJ5	1
+Targets for Ub degradation	Ubiquitin pathway components	1

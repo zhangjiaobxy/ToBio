@@ -1,0 +1,91 @@
+Tbc1d1	NAI42	1
+NAI29	NAI17	1
+NAI24	Foxo3	1
+NAI25	Eif4ebp1	1
+Eif4b	Cell Growth & Protein Synethesis	1
+NAI24	NAI37	1
+NAI16	NAI3	1
+NAI17	NAI24	1
+NAI25	Hif1a	1
+Ddit4	NAI37	1
+Pdk1	NAI24	1
+NAI3	Glycolysis/Gluconeogenesis	1
+Mdm2	Cell Survival	1
+Gsk3b	Glycolysis/Gluconeogenesis	1
+Srebf1	Fatty Acid Biosynthesis	1
+Rps6	Cell Growth & Protein Synethesis	1
+Raf1	Mapk1	1
+Lipe	Lypolysis	1
+Cdkn1b	Cell Cycle	1
+NAI24	NAI8	1
+NAI37	Rheb	1
+Hsp90ab1	NAI24	1
+NAI38	NAI7	1
+Ikbkg	Cell Survival	1
+Casp9	Cell Survival	1
+Insulin	NAI39	1
+NAI16	Hmgcr	1
+NAI20	NAI33	1
+NAI16	Ppargc1a	1
+NAI16	NAI19	1
+Acaca	Fatty Acid Biosynthesis	1
+NAI33	NAI17	1
+Insr	NAI20	1
+Sos1	NAI11	1
+Crtc2	NAI24	1
+Energy Stress	NAI22	1
+NAI41	NAI24	1
+NAI24	Gsk3b	1
+NAI34	Grb2	1
+NAI19	Glycogen synthesis	1
+NAI30	NAI34	1
+NAI39	Insr	1
+NAI24	Mdm2	1
+NAI12	NAI28	1
+NAI31	Eif4b	1
+Hmgcr	Cholesterol synthesis	1
+NAI20	NAI29	1
+NAI16	Srebf1	1
+Bad	Cell Survival	1
+Eif4ebp1	NAI1	1
+Hypoxia	Ddit4	1
+NAI18	NAI29	1
+NAI11	Raf1	1
+Ptk2	NAI29	1
+Grb2	Sos1	1
+NAI16	Acaca	1
+Pten	NAI17	1
+NAI9	NAI16	1
+NAI10	NAI17	1
+NAI25	NAI31	1
+NAI16	NAI25	1
+NAI8	Cell Survival	1
+NAI9	NAI24	1
+NAI42	NAI15	1
+NAI24	Ikbkg	1
+NAI31	Rps6	1
+NAI4	NAI24	1
+Elavl1	Nuclear to Cytoplasm Translocation	1
+NAI24	Bad	1
+NAI24	Nos3	1
+NAI16	Tbc1d1	1
+NAI16	Elavl1	1
+Rheb	NAI25	1
+NAI24	Akt1s1	1
+Neurotransmitters	NAI2	1
+NAI22	NAI16	1
+Nos2	Cell Proliferation	1
+NAI11	NAI29	1
+NAI17	Pdk1	1
+NAI16	NAI37	1
+NAI16	Lipe	1
+NAI23	NAI10	1
+NAI25	Ulk1	1
+Foxo1	Cell Cycle	1
+NO	Irs1	1
+NAI34	NAI20	1
+NAI24	Casp9	1
+Eif4e2	Cell Growth & Protein Synethesis	1
+Ulk1	Autophagy	1
+Akt1s1	NAI25	1
+NAI24	Cdkn1a	1

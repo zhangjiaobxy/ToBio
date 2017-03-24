@@ -1,0 +1,14 @@
+Ugdh	NAJ4	1
+Adenosine triphosphate	Adenosine 3',5'-diphosphate	1
+Uridine triphosphate	NAI4	1
+D-Glucose	Glucose 6-phosphate	1
+Glucose 6-phosphate	Glucose 1-phosphate	1
+Ugp2	NAJ3	1
+Uridine diphosphate glucuronic acid	Uridine 5'-diphosphate	1
+Glucose 1-phosphate	Uridine diphosphate glucose	1
+Substrate	substrate-glucuronide	1
+Uridine diphosphate glucose	Uridine diphosphate glucuronic acid	1
+Hk1	NAJ5	1
+UGT	NAJ1	1
+NAI2	NAJ2	1
+NAI3	NAI1	1

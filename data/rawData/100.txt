@@ -1,0 +1,23 @@
+Ptf1a	NAJ3	1
+Ctnnb1	Ptf1a	1
+miR-145	Ptf1a	1
+Chymotrypsinogen	Exocrine pancreas	1
+Nkx6-1	Endocrine pancreas	1
+Rbpj	Hes1	1
+Ptf1a	NAJ1	1
+miR-18a	Ptf1a	1
+Hes1	Ptf1a	1
+Ptf1a	Pancreas specification	1
+Rbpj	Rbpjl	1
+Kat2b	Ptf1a	1
+Rbpj	Pdx1	1
+Ptf1a	Prox1	1
+Ptf1a	Nkx6-1	1
+Prox1	Endocrine pancreas	1
+Rbpjl	NAJ2	1
+Pdx1	Pancreas specification	1
+Ptf1a	High	1
+miR-495	Ptf1a	1
+Fgf10	Ptf1a	1
+Ptf1a	Acinar-specific genes	1
+Notch1	Hes1	1

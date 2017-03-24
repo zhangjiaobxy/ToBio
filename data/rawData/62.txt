@@ -1,0 +1,12 @@
+Nf-kB	Sostdc1	1
+EDA-A1 isoform	NAI1	1
+NAI4	Cell Growth	1
+Nf-kB	NAI3	1
+Nf-kB	Shh	1
+Sostdc1	Bmp	1
+EDA-A5 isoform	NAI1	1
+NAI3	Protein Wnt	1
+NAI1	NAI2	1
+NAI5	Cell Differentiation	1
+Nf-kB	Ltb	1
+NAI2	Nf-kB	1

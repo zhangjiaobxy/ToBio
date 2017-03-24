@@ -1,0 +1,67 @@
+Amyloid Beta (AB)	NAI6	1
+NAI17	Cell Death	1
+Fadd	Casp8	1
+Iron	NAJ4	1
+Oligomeric AB	NAI7	1
+NAI13	Tau	1
+Amyloid Beta (AB)	Degredation	1
+Gsk3b	Tau	1
+Gnaq	NAI9	1
+Apbb1	APP processing	1
+NAI2	NAI3	1
+Oligomeric AB	NAI1	1
+AB	Gsk3b	1
+filaments (PHFs)	Neurofibrillary	1
+ER stress	Casp12	1
+NAJ1	sAPP-alpha	1
+Oligomeric AB	Hydrogen peroxide	1
+Calcium	Calcium overload	1
+Nos1	NO	1
+Tau	Paired helical	1
+tangles (NFTs)	Cell Death	1
+NAI3	Bad	1
+AICD	NAI17	1
+Cdk5	Tau	1
+NAI12	Trp53	1
+Psenen	Ern1	1
+Casp3	Cell Death	1
+Oligomeric intracellular AB	Hsd17b10	1
+GPCR	Gnaq	1
+Oligomeric intracellular AB	Cx IV	1
+NAI9	IP3	1
+Amyloid Beta (AB)	Oligomeric AB	1
+Casp12	Casp3	1
+Hydrogen peroxide	Neuronal injury	1
+Cdk5r1	Tau	1
+Gm2221	Lower energy production?	1
+App	Apbb1	1
+Calcium	Nos1	1
+Apaf1	Casp9	1
+Calcium	NAI2	1
+Casp8	Casp3	1
+Oligomeric AB	Senile	1
+Amyloid Beta (AB)	Oligomeric intracellular AB	1
+Oligomeric AB	NAI8	1
+Bad	Casp9	1
+NAI6	Lrp1	1
+Oligomeric AB	GPCR	1
+App	Gm2221	1
+Casp9	Casp3	1
+C99	Amyloid Beta (AB)	1
+Psenen	Eif2ak3	1
+Trp53	Cdk5r1	1
+NAI1	Fadd	1
+NAI10	Casp3	1
+Mme	Ide	1
+Psenen	Atf6	1
+Il1b	Neuronal injury	1
+NAI16	Cell Death	1
+NAJ2	sAPP-beta	1
+IP3	NAI15	1
+Copper	NAJ4	1
+Calcium	NAI12	1
+App	Nae1	1
+Casp8	Bid	1
+Tnf	Neuronal injury	1
+Calcium	NAI10	1
+Nae1	Apoptosis	1

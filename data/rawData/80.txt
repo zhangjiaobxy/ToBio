@@ -1,0 +1,6 @@
+E-Box	Per2	1
+Nr1d1	Group object	1
+E-Box	Rev-erba	1
+E-Box	Cry1	1
+E-Box	Per1	1
+E-Box	Cry2	1

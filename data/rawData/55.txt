@@ -1,0 +1,41 @@
+Gab1	Group object	1
+Group object	Axin1	1
+NAI7	NAI8	1
+Myc	Self-renewal	1
+GPCR-Arrestin Signals	Group object	1
+NAI8	NAI7	1
+Group object	NAJ2	1
+SHP2	Gab1	1
+Egfr	Group object	1
+Lrp5	NAI2	1
+PIP3	Group object	1
+Nog	Bmp4	1
+Group object	Gsk3b	1
+Group object	NAJ1	1
+NAI4	NAJ5	1
+PIP3	PIP2	1
+Ctnnb1	Group object	1
+Jak1	NAJ7	1
+Group object	NAI6	1
+Eras	Group object	1
+Group object	NAI5	1
+Group object	Myc	1
+SHP2	Grb2	1
+Egf	Egfr	1
+Group object	NAJ4	1
+Lif	Group object	1
+Group object	Self-renewal	1
+Ctnnb1	Degradation of beta-catenin	1
+Gi Signaling	Group object	1
+Group object	Gab1	1
+NAI8	Group object	1
+PIP2	PIP3	1
+Pten	NAJ3	1
+NAI9	Group object	1
+NAI3	Self-renewal	1
+NAI5	Self-renewal	1
+Jak1	NAJ6	1
+Group object	NAI9	1
+Smad4	NAJ1	1
+Gsk3b	Myc	1
+Stat3	Group object	1

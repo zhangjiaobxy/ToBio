@@ -1,0 +1,39 @@
+Pyruvate	Oxaloacetate	1
+Acetyl-CoA	Malonyl-CoA	1
+Acly	NAJ17	1
+Acetoacetyl-ACP	beta-hydroxybutyryl	1
+Fasn	NAJ13	1
+Fasn	NAJ7	1
+Acaa2	NAJ11	1
+beta-hydroxybutyryl	Crotonoyl-ACP	1
+Acyl-CoA (n+2)	Long-Chain fatty acid	1
+Long-Chain fatty acid	Fatty acyl CoA	1
+Citrate	Acetyl-CoA	1
+NAJ9	Fasn	1
+Crotonoyl-ACP	Butyryl-ACP	1
+NAI1	NAJ18	1
+Butyryl-ACP	Palmitoyl-ACP	1
+Palmitate	3-ketoacyl-CoA	1
+3-ketoacyl-CoA	3-L-Hydroxyacyl-CoA	1
+Pcx	NAJ8	1
+Fatty acyl CoA	Triacylglyceride Synthesis pathway	1
+Acetyl-synthase	Acetoacetyl-ACP	1
+NAI3	NAJ3	1
+Hadh	NAJ10	1
+Acetyl-CoA	Acetyl-ACP	1
+Scd1	NAJ2	1
+Fasn	NAJ16	1
+Fasn	NAJ6	1
+Malonyl-ACP	Acetoacetyl-ACP	1
+3-L-Hydroxyacyl-CoA	trans-delta2-enoyl-CoA	1
+Butyryl-ACP	Malonyl-CoA	1
+Fasn	NAJ5	1
+Acetyl-ACP	Acetyl-synthase	1
+Fasn	NAJ12	1
+Fasn	NAJ4	1
+Malonyl-CoA	Malonyl-ACP	1
+NAI2	NAJ15	1
+Palmitoyl-ACP	Palmitate	1
+NAI4	NAJ14	1
+Fasn	NAJ1	1
+trans-delta2-enoyl-CoA	Acyl-CoA (n+2)	1

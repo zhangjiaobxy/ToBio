@@ -1,0 +1,38 @@
+NAI8	NAI1	1
+NAI7	NAI8	1
+Ctnnd1	Zbtb33	1
+BIO	NAI12	1
+Map3k7	Nlk	1
+Zbtb33	Wnt11	1
+Phosphorylated beta-catenin	Ubiquitin Tagged	1
+NAI20	Phosphorylated beta-catenin	1
+NAI17	Differentiation	1
+NAI8	Frat1	1
+Csnk1e	NAI9	1
+NAI8	NAI10	1
+IQ1	NAI16	1
+Foxd3	Nanog	1
+NAI18	Nanog	1
+Stabilized beta-catenin	Phosphorylated beta-catenin	1
+NAI5	NAI6	1
+Ep300	NAI17	1
+NAI4	NAI5	1
+Trp53	Nanog	1
+NAI11	Apoptosis	1
+Zbtb33	NAI17	1
+NAI13	Tcf/Lef-1	1
+NAJ2	NAI12	1
+Frat1	NAJ1	1
+NAI18	Pluripotency	1
+NAI10	NAI11	1
+NAI1	NAI9	1
+Nfya	NAJ3	1
+NAI8	Cytoskeleton	1
+NAI5	NAI8	1
+NAI14	Nanog	1
+Ctnnb1	Tcf/Lef-1	1
+NAI9	NAI12	1
+Crebbp	NAI18	1
+NAI8	NAI9	1
+Nlk	Tcf/Lef-1	1
+beta-catenin	26S Proteasome Degradation	1

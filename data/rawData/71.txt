@@ -1,0 +1,13 @@
+NAI5	Activation	1
+Activation	NAI3	1
+producing systems	NAI4	1
+NAI8	Induction of	1
+NAI3	Induction of	1
+NAI4	Cyp1a1	1
+Reactive Oxygen Species	Adaptive response	1
+Adaptive response	Repression of ROS-	1
+Activation	NAI8	1
+Reactive Oxygen Species	NAI5	1
+producing systems	NAI7	1
+NAI8	NAI3	1
+Adaptive response	Activation	1

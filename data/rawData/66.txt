@@ -1,0 +1,44 @@
+PGE2	Hsd11b1	1
+Prostaglandin H2	PGI2	1
+Prostaglandin H2	TXA2	1
+PGF2a	Inactive Metabolites	1
+Hpgd	NAJ17	1
+Edn1	NAI1	1
+Cortisone	Cortisol	1
+S100a10	NAI4	1
+NAJ12	Hsd11b2	1
+NAI3	NAJ5	1
+S100a6	prolactin	1
+Calcium	NAJ10	1
+PGF2a	Hsd11b1	1
+Hsd11b1	Cortisol	1
+Hsd11b1	NAJ14	1
+Cyp11a1	Progesterone	1
+Cortisol	Cortisone	1
+Calcium	NAJ11	1
+Calcium	NAJ9	1
+PGI2	Inactive Metabolites	1
+Pla2g4a	NAJ2	1
+Scgb1a1	NAJ1	1
+Cortisol	NAJ4	1
+NAI3	NAJ8	1
+TXA2	Inactive Metabolites	1
+NAI3	NAJ6	1
+NAI4	S100a6	1
+NAI4	NAJ1	1
+Hpgd	NAJ16	1
+NAI1	Pla2g4a	1
+PGE2	Inactive Metabolites	1
+Arachidonic acid	Prostaglandin H2	1
+NAI2	NAJ3	1
+Hpgd	Cortisol	1
+Progesterone	Hpgd	1
+NAI4	prolactin	1
+NAI5	Gq signaling	1
+Prostaglandin H2	PGE2	1
+release	Prl	1
+Hpgd	NAJ13	1
+PGF2a	NAI5	1
+Hpgd	NAJ15	1
+Prostaglandin H2	PGF2a	1
+NAI3	NAJ7	1

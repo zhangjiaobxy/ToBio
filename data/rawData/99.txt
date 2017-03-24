@@ -1,0 +1,16 @@
+C4b	C2	1
+H2O	Ions	1
+NAJ2	NAI1	1
+C2	C3	1
+NAI3	C9	1
+C3	Hc	1
+Ions	H2O	1
+Masp1	C4a	1
+C1s	NAJ3	1
+C7	NAI3	1
+Masp1	C2	1
+C1 complex	NAI2	1
+C1r	C1 complex	1
+NAJ1	Daf1	1
+Hc	C6	1
+C6	C7	1

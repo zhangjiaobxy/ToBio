@@ -1,0 +1,7 @@
+Rac1	Permeability	1
+Vegfa	VEGFR2	1
+VEGFR2	Src	1
+Src	Rac1	1
+Rac1	Angiogenesis	1
+Slit2	Robo4	1
+Robo4	NAJ1	1

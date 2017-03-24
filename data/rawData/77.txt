@@ -1,0 +1,25 @@
+NAI2	AMP Ubiquitin/E1 Complex	1
+NAI8	Degrades only Peptides	1
+Cytosolic Proteins	NAI9	1
+NAI13	NAJ1	1
+AMP Ubiquitin/E1 Complex	Ubiquitin/E2 Complex	1
+Ifng	Psmb8	1
+Ubiquitin/Protein	NAI10	1
+Psmc5	Unfolds and Degrades	1
+Nedd4	E3/Protein	1
+NAJ6	NAI3	1
+NAI9	Psmb9	1
+NAJ5	NAI4	1
+Ifng	NAI5	1
+NAJ3	Proteins to be Degraded	1
+NAI10	Ubiquitin	1
+NAJ2	E3/Protein	1
+NAI9	Psmb8	1
+NAI5	NAI9	1
+Ubiquitin/E2 Complex	Ubiquitin/Protein	1
+NAI9	Psmb10	1
+NAI7	Degrades only Peptides	1
+Intact Proteins	NAI11	1
+dATP	NAJ4	1
+NAI2	NAI1	1
+Degrades only Peptides	NAI11	1

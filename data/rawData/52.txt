@@ -1,0 +1,21 @@
+Glucose	Glycolysis	1
+Glycogen (n+1)	Glycogen	1
+Glucose 1-phosphate	UDP-glucose	1
+Glucose 1-phosphate	Glucose 6-phosphate	1
+NAI7	NAI5	1
+NAI7	NAI1	1
+Agl	NAJ3	1
+NAI6	NAI1	1
+Glucose 6-phosphate	Glycolysis	1
+Glycogen	Glucose 1-phosphate	1
+UDP-glucose	NAI5	1
+NAI1	NAJ1	1
+NAI2	NAI5	1
+NAI3	NAJ5	1
+cAMP	NAI7	1
+Gbe1	NAJ6	1
+NAI4	NAI5	1
+NAI6	NAI5	1
+NAI5	Glycogen (n+1)	1
+Pgm2	NAJ4	1
+Glycogen (n+1)	Glucose	1

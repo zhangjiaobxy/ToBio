@@ -1,0 +1,6 @@
+NAI4	Pik3c2g	1
+Pik3c2g	NAI3	1
+Edg1	Racgap1	1
+NAI4	Plcb3	1
+NAI4	NAI5	1
+NAI3	Edg1	1

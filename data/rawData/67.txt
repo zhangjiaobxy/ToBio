@@ -1,0 +1,14 @@
+NAI9	NAI1	1
+beta-catenin	Transcription	1
+NAI7	NAI8	1
+Rhoa	Cytoskeleton/planar cell Polarity	1
+Calcium	Cytoskeleton/planar cell Polarity	1
+NAI5	NAI1	1
+NAI4	Cytoskeleton/planar cell Polarity	1
+NAI8	NAI6	1
+NAI5	NAI6	1
+NAI6	Rhoa	1
+NAI1	beta-catenin	1
+NAI6	Calcium	1
+NAI6	NAI4	1
+NAI7	NAI9	1

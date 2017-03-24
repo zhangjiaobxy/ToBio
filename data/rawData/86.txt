@@ -1,0 +1,5 @@
+NAI1	Irx5	1
+Kcnd2	Electric conduction	1
+NAI1	Hand2	1
+Irx5	Kcnd2	1
+Hand2	Heart morphogenesis	1

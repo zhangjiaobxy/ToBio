@@ -1,0 +1,14 @@
+Tlr4	NAI1	1
+ApoE	NAI5	1
+Tlr2	NAI1	1
+Mir146	NAI1	1
+cytokine genes	Monocyte and macrophage	1
+NAI5	NAI3	1
+NAI3	pre-miR-146a	1
+NAI6	NAI3	1
+NAI2	NAI6	1
+NAI1	p65	1
+ox-LDL	Tlr2	1
+pre-miR-146a	Mir146	1
+Lipopolysaccharide	Tlr4	1
+NAI6	cytokine genes	1

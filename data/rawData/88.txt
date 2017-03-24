@@ -1,0 +1,12 @@
+Fatty acid	beta-oxidation	1
+Adipor1	NAI1	1
+Adiponectin	Adipor1	1
+Acetyl-CoA	Malonyl-CoA	1
+Leptin	Lepr	1
+Adipor2	NAI1	1
+NAI1	Acc1	1
+Acc1	NAJ1	1
+Malonyl-CoA	Cpt1	1
+Adiponectin	Adipor2	1
+Lepr	NAI1	1
+Cpt1	NAJ2	1

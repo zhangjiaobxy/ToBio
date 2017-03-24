@@ -1,0 +1,42 @@
+Gnas	G	1
+ATP	NAJ9	1
+Depolarization	NAI9	1
+NAJ7	ADP + Pi	1
+Epinephrine	NAI7	1
+G alpha i/o/z	NAI8	1
+NAI13	NAJ2	1
+NAJ6	NAI12	1
+Gna11	NAI28	1
+Protein Kinase A	IP3 Receptors	1
+Ca	Cytosolic Ca2+	1
+IP3	IP3 Receptors	1
+G alpha i/o/z	NAI31	1
+CaM kinase	NAJ3	1
+Protein Kinase A	NAI6	1
+arrestin/GRK	NAJ12	1
+Gnas	NAI6	1
+NAI13	NAJ5	1
+ATP	NAJ7	1
+NAI12	Ca	1
+NAJ13	ATP	1
+NAI9	NAJ11	1
+NAI29	Gnaq	1
+NAI37	Ca	1
+IP4	IP3 Receptors	1
+cAMP	Protein Kinase A	1
+IP3	IP4	1
+NAJ9	ADP + Pi	1
+Na2+	G alpha i/o/z	1
+IP3	NAI12	1
+PIP2	DAG	1
+Fkbp1a	FKBP12	1
+PIP2	IP3	1
+NAI28	PIP2	1
+NAI11	NAJ8	1
+Protein Kinase A	NAJ3	1
+Ca2+	Cytosolic Ca	1
+ATP	NAJ3	1
+NAI9	NAJ10	1
+Cytosolic Ca	NAI38	1
+Protein Kinase A	NAJ4	1
+NAJ3	ADP	1

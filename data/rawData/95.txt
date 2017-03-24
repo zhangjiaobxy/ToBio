@@ -1,0 +1,54 @@
+R-S-Alanylglycine	R-S-Alanine	1
+L-Cysteine	Taurine and hypotaurine	1
+2.3.2.4	NAJ11	1
+Gsr	NAJ22	1
+L-Glutamate	g-L-Glutamyl-L-cysteine	1
+1.8.1.13	NAJ21	1
+acid metabolism	Glycine	1
+NADPH	NAJ1	1
+Anpep	NAJ19	1
+g-L-Glutamyl-L-cysteine	5-Oxoproline	1
+NAI6	NAJ13	1
+RX	NAJ3	1
+2.3.2.4	NAJ12	1
+Glutathione (reduced)	3.5.1.78	1
+NAJ20	Glycine	1
+NAI4	NAJ6	1
+2.3.1.80	NAJ10	1
+(5-L-Glutamyl)-L-amino acid	L-Amino acid	1
+Glutathione (reduced)	Cysteinyl-glycine	1
+Cysteine metabolism	L-Cysteine	1
+R-S-Glutathione	R-S-Alanylglycine	1
+Glutathione (reduced)	L-Glutamate	1
+Anpep	NAJ8	1
+NAJ18	L-Cysteine	1
+R-S-Alanine	R-S-Mercapturonate	1
+g-L-Glutamyl-L-cysteine	Glutathione (reduced)	1
+Glutathione (reduced)	(5-L-Glutamyl)-L-amino acid	1
+NAI7	NAJ16	1
+NAI6	NAJ14	1
+g-L-Glutamyl-L-cysteine	Bis-g-glutamylcystine	1
+g-L-Glutamyl-L-cysteine	L-Cysteine	1
+5-Oxoproline	L-Glutamate	1
+Cysteinyl-glycine	L-Cysteine	1
+Amino acid metabolism	L-Amino acid	1
+NAJ5	L-Glutamate	1
+NADP+	NAJ2	1
+L-Amino acid	Cysteinyl-glycine	1
+Glutathione (reduced)	Glutamylcysteinyl-glycylspermidine	1
+NAI5	NAJ17	1
+Glutamylcysteinyl-glycylspermidine	3.5.1.78	1
+2.3.2.4	NAJ23	1
+NAJ19	Glycine	1
+NAI1	Glutathione (reduced)	1
+NAI3	NAJ4	1
+Gss	NAJ20	1
+NAI1	Oxidized glutathione	1
+Oplah	NAJ15	1
+NAI2	Gsr	1
+Acetyl-CoA	NAJ9	1
+Oxidized glutathione	Glutathione (reduced)	1
+Glutathione (reduced)	R-S-Glutathione	1
+NAJ12	5-Oxoproline	1
+Glutamate metabolism	L-Glutamate	1
+NAJ7	Glycine	1

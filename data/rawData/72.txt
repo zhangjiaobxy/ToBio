@@ -1,0 +1,40 @@
+Nr1h3	NAI4	1
+Acetyl-CoA	Fatty Acids	1
+Cyp7a1	NAJ2	1
+Bile Acids	Nr1h4	1
+Nr1i2	NAI3	1
+Retinoic acid	Rara	1
+Rarg	Cyp26a1	1
+Lanosterol	7-Dehydrocholesterol	1
+DIET	Retinoic acid	1
+Steroids	Nr1i3	1
+Nr1h4	NAI2	1
+Cholesterol	Oxysterol	1
+Steroids	Nr1i2	1
+7-Dehydrocholesterol	1,25-Dihydroxyvitamin D3s	1
+DIET	1,25-Dihydroxyvitamin D3s	1
+DIET	Cholesterol	1
+Fatty Acids	Ppard	1
+Isoprenoids	Lanosterol	1
+Cholesterol	Bile Acids	1
+Ppara	NAI1	1
+Retinoic acid	Rarb	1
+Acetyl-CoA	Isoprenoids	1
+Xenobiotics	Nr1i2	1
+Xenobiotics	Nr1i3	1
+Fatty Acids	Pparg	1
+Ppard	Abca1	1
+DIET	Xenobiotics	1
+Oxysterol	Nr1h3	1
+Cyp27b1	NAJ1	1
+1,25-Dihydroxyvitamin D3s	Vdr	1
+Cholesterol	Steroids	1
+Nr1i3	NAI5	1
+Rarb	Cyp26a1	1
+Rara	Cyp26a1	1
+Fatty Acids	Ppara	1
+Retinoic acid	Rarg	1
+7-Dehydrocholesterol	Cholesterol	1
+Vdr	NAI6	1
+Pparg	NAI7	1
+Fatty Acids	DIET	1
