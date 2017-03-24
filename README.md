@@ -1,4 +1,4 @@
-ToBio 1.0 executable binay - Linux version
+ToBio 1.0 executable binary - Linux version
 ------------------------
 
 ToBio 1.0 is implemented in Python.
