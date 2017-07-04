@@ -234,7 +234,7 @@ FILE FORMAT OF PIPELINE
 
 FUNDING SUPPORT
 ------------------------
-We would like to thank Amazon Web Service (AWS) for providing cloud credits for the software development.
+* We would like to thank Amazon Web Service (AWS) for providing cloud credits for the software development.
 
 
 ------------------------
