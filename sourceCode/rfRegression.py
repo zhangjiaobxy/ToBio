@@ -73,6 +73,12 @@ elif metricLabel == 'm5':
 elif metricLabel == 'm6':
     print 'You have selected \''+metricLabel+': HubAlign FC\' as your label.\n'
     label_file = 'hubalign_fc_label.txt'
+elif metricLabel == 'm7':
+    print 'You have selected \''+metricLabel+': HubAlign S3\' as your label.\n'
+    label_file = 'hubalign_s3_label.txt'
+elif metricLabel == 'm8':
+    print 'You have selected \''+metricLabel+': MAGNA S3\' as your label.\n'
+    label_file = 'magna_s3_label.txt'
 else:
     print 'Invalid label, system exit!'
     print '\n*********************************************************************\n'
