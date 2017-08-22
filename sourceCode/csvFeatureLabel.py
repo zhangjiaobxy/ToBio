@@ -18,7 +18,7 @@ from scipy import spatial
 
 subgraphSize = str(sys.argv[1])
 bio = sys.argv[2]  # biology feature: b1, b2, or b3
-metricLabel = sys.argv[3]  # m1, m2, m3, m4, m5, or m6
+metricLabel = sys.argv[3]  # m1, m2, m3, m4, m5, m6, m7, or m8
 
 
 
@@ -70,6 +70,14 @@ elif metricLabel == 'm6':
     print 'You have selected \''+metricLabel+': HubAlign FC\' as your label.\n'
     label_file = 'hubalign_fc_label.txt'
     flabel=open('./../data/hubLabel/'+label_file,'r')
+elif metricLabel == 'm7':
+    print 'You have selected \''+metricLabel+': HubAlign S3\' as your label.\n'
+    label_file = 'hubalign_s3_label.txt'
+    flabel=open('./../data/hubLabel/'+label_file,'r')
+elif metricLabel == 'm8':
+    print 'You have selected \''+metricLabel+': MAGNA S3\' as your label.\n'
+    label_file = 'magna_s3_label.txt'
+    flabel=open('./../data/magnaLabel/'+label_file,'r')
 else:
     print 'Invalid label, system exit!'
     print '\n*********************************************************************\n'

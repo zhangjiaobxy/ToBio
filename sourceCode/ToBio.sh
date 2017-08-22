@@ -13,7 +13,7 @@ if [ "$1" == "-h" ] ; then
     echo "[OPTION]:        -t (-t means choose ToBio approach)"
     echo "[SUBGRAPH_SIZE]: 2, 3, 4 or 234 (234 indicates that feature is the combination of subgraph size 2, 3 and 4)"
     echo "[BIO_FEATURE]:   b1, b2, or b3 (b1: BLAST, b2: GO, b3: BLAST and GO)"
-    echo "[LABEL]:         m1, m2, m3, m4, m5 or m6 (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL EC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC)"
+    echo "[LABEL]:         m1, m2, m3, m4, m5, m6, m7 or m8 (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL EC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC, m7: HubAlign S3, m8: MAGNA S3)"
     echo "[TOP_K_PERCENT]: top k percent similar networks"
     echo "[DB_START]:      integer number, it should be the smallest file name in the database"
     echo "[DB_END]:        integer number, it should be the largest file name in the database"
@@ -85,8 +85,9 @@ if [ "$1" == "-t" ] ; then
 #            ./data/netalLabel (netal output file: *.eval files, netal_ec_label.txt, netal_lccs_label.txt, netal_fc_label.txt)
 #            ./data/hubLabel (hubalign output file: *.eval files, hubalign_ec_label.txt, hubalign_lccs_label.txt, hubalign_fc_label.txt)
 # parameter: 
-#            $4: label (label = m1, m2, m3, m4, m5, m6)
-#                      (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL FC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC)
+#            $4: label (label = m1, m2, m3, m4, m5, m6, m7, m8)
+#                      (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL FC, m4: HubAlign EC, 
+#                       m5: HubAlign LCCS, m6: HubAlign FC, m7: HubAlign S3, m8: MAGNA S3)
 #            $6: dbStart: the start range of database
 #            $7: dbEnd: the end range of database
 #            $8: queryStart: the start range of query networks
@@ -98,12 +99,17 @@ if [ "$1" == "-t" ] ; then
     hub_ec="m4"
     hub_lccs="m5"
     hub_fc="m6"
+    hub_s3="m7"
+    magna_s3="m8"
     if [ "$4" == "$netal_ec" ] || [ "$4" == "$netal_lccs" ] || [ "$4" == "$netal_fc" ]; then
         bash runNetal.sh $4 $6 $7 $8 $9
         # bash runNetal.sh m1 1 100 101 120
-    elif [ "$4" == "$hub_ec" ] || [ "$4" == "$hub_lccs" ] || [ "$4" == "$hub_fc" ]; then
+    elif [ "$4" == "$hub_ec" ] || [ "$4" == "$hub_lccs" ] || [ "$4" == "$hub_fc" ] || [ "$4" == "$hub_s3" ]; then
         bash runHubalign.sh $4 $6 $7 $8 $9
-        # bash runHubalign.sh m3 1 100 101 120
+        # bash runHubalign.sh m4 1 100 101 120
+    elif [ "$4" == "$magna_s3" ]; then
+        bash runMagna.sh $4 $6 $7 $8 $9
+        # bash runMagna.sh m8 1 100 101 120   
     else
         echo "*********************************************************************"
         echo
@@ -119,14 +125,15 @@ if [ "$1" == "-t" ] ; then
 #            ./../data/mfinderFeature/featureSize2.t  (featureSize3.t, featureSize2=4.t)
 #            ./../data/rawData/blast.b  (blast score for each pair network)
 #            ./../data/rawData/go.b  (go score for each pair network)
-#            ./../data/netalLabel/netal_ec_label.txt  (netal_lccs_label.txt, netal_fc_label.txt, hubalign_ec_label.txt, hubalign_lccs_label.txt, hubalign_fc_label.txt)
+#            ./../data/netalLabel/netal_ec_label.txt  (netal_lccs_label.txt, netal_fc_label.txt, hubalign_ec_label.txt, 
+#                                                       hubalign_lccs_label.txt, hubalign_fc_label.txt, hubalign_s3_label.txt, magna_s3_label.txt)
 # output: 
 #            ./../data/csvFeatureLabel/featureSize2_BLAST_netal_ec_label.csv (featureSize2_GO_netal_ec_label.csv, featureSize2_BLAST_GO_netal_ec_label.csv)
 # parameter: 
 #            $2: subgraphSize (subgraphSize = 2, 3, 4 or 234)
 #            $3: bio (bio = b1, b2, b3)
-#            $4: label (label = m1, m2, m3, m4, m5, m6)
-#                      (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL FC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC)
+#            $4: label (label = m1, m2, m3, m4, m5, m6, m7, m8)
+#                      (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL FC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC, m7: HubAlign S3, m8: MAGNA S3)
 
     python csvFeatureLabel.py $2 $3 $4  # generate final csvfile
     # python csvFeatureLabel.py 2 b1 m1
@@ -140,8 +147,8 @@ if [ "$1" == "-t" ] ; then
 # parameter: 
 #            $2: subgraphSize (subgraphSize = 2, 3, 4 or 234)
 #            $3: bio (bio = b1, b2, b3)
-#            $4: label (label = m1, m2, m3, m4, m5, m6)
-#                      (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL FC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC)
+#            $4: label (label = m1, m2, m3, m4, m5, m6, m7, m8)
+#                      (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL FC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC, m7: HubAlign S3, m8: MAGNA S3)
 #            $5: topk (output top k percent similar networks)
 
     python rfRegression.py $2 $3 $4 $5  # train random forest model and perform query
