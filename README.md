@@ -159,6 +159,10 @@ HOW TO USE
 
 * Command line:
 
+	* ToBio Help info :
+
+	* $ ./ToBio [-h]
+
 	* ToBio Usage :
 
 	* $ ./ToBio [OPTION] [SUBGRAPH_SIZE] [BIO_FEATURE] [LABEL] [TOP_K_PERCENT] [DB_START] [DB_END] [QUERY_START] [QUERY_END]
@@ -172,6 +176,8 @@ HOW TO USE
 	* $ cd /ToBio/
 	
 	* $ chmod +x ToBio
+
+	* $ ./ToBio -h
 
 	* $ ./ToBio -t 2 b1 m1 20 1 100 101 120 
 
