@@ -46,8 +46,20 @@ CONTAINS:
 	* hubalignLCCS.py : Python script to extract HubAlign LCCS label
 
 	* hubalignFC.py : Python script to extract HubAlign FC label
+
+	* hubalignS3.py : Python script to extract HubAlign S3 label
 	
 	* HubAlign : HubAlign executable binary
+
+	* runMagna.sh : shell script to run MAGNA
+
+	* formatMagna.py : Python script to convert network file to the file format that can be run in MAGNA
+
+	* runMagna.py : Python script to run MAGNA and get label raw data
+
+	* magnaS3.py : Python script to extract MAGNA S3 label
+
+	* magnapp : MAGNA executable binary
 	
 	* csvFeatureLabel.py : Python script to generate a csv file, which contains final feature and label
 	
@@ -66,6 +78,8 @@ CONTAINS:
 	* netalLabel : it stores output files of NETAL and raw labels, which are created in the program execution stage
 
 	* hubLabel : it stores output files of HubAlign and raw labels, which are created in the program execution stage
+
+	* magnaLabel : it stores output files of MAGNA and raw labels, which are created in the program execution stage
 	
 	* csvFeatureLabel : it stores final feature label csv file, which is created in the program execution stage
 	
@@ -113,7 +127,7 @@ HOW TO USE
 	
 	* [BIO_FEATURE] :   b1, b2, or b3 (b1: BLAST, b2: GO, b3: BLAST and GO)
 	
-	* [LABEL] :         m1, m2, m3, m4, m5 or m6 (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL EC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC)
+	* [LABEL] :         m1, m2, m3, m4, m5, m6, m7 or m8 (m1: NETAL EC, m2: NETAL LCCS, m3: NETAL EC, m4: HubAlign EC, m5: HubAlign LCCS, m6: HubAlign FC, m7: HubAlign S3, m8: MAGNA S3)
 	
 	* [TOP_K_PERCENT] : top k percent similar networks
 	
@@ -230,11 +244,6 @@ FILE FORMAT OF PIPELINE
 	101,36
 
 * Output file of the pipeline is in a csv file format, which has the same file format as the input file. The difference is that, if we want to get the top 10% similar network, we can input top 20% similar network.
-
-
-FUNDING SUPPORT
-------------------------
-* We would like to thank Amazon Web Service (AWS) for providing cloud credits for the software development.
 
 
 ------------------------
