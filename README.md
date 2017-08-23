@@ -252,6 +252,11 @@ FILE FORMAT OF PIPELINE
 * Output file of the pipeline is in a csv file format, which has the same file format as the input file. The difference is that, if we want to get the top 10% similar network, we can input top 20% similar network.
 
 
+FUNDING SUPPORT
+------------------------
+* We would like to thank Amazon Web Service (AWS) for providing cloud credits for the software development.
+
+
 ------------------------
 Jiao Zhang
 
